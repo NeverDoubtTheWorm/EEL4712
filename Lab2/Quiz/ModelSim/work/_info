@@ -1,0 +1,183 @@
+m255
+K3
+13
+cModel Technology
+dD:\EEL4712\Lab1\ModelSimPart2
+Eadder
+Z0 w1410835753
+Z1 DPx3 std 6 textio 0 22 5>J:;AW>W0[[dW0I6EN1Q0
+Z2 DPx4 ieee 14 std_logic_1164 0 22 5=aWaoGZSMWIcH0i^f`XF1
+Z3 dD:\EEL4712\Lab2\Quiz\ModelSim
+Z4 8D:/EEL4712/Lab2/Quiz/Quartus/adder.vhd
+Z5 FD:/EEL4712/Lab2/Quiz/Quartus/adder.vhd
+l0
+L6
+VATfH3zRh:c8:ceR8MAGh12
+Z6 OV;C;10.1d;51
+32
+Z7 !s108 1411417775.476000
+Z8 !s90 -reportprogress|300|-work|work|-2002|-explicit|D:/EEL4712/Lab2/Quiz/Quartus/adder.vhd|
+Z9 !s107 D:/EEL4712/Lab2/Quiz/Quartus/adder.vhd|
+Z10 o-work work -2002 -explicit -O0
+Z11 tExplicit 1
+!s100 EhTe_i=iSdh3V;Z^U]EmN2
+!i10b 1
+Astr
+R1
+R2
+DEx4 work 5 adder 0 22 ATfH3zRh:c8:ceR8MAGh12
+l25
+L18
+Vgo?MHm4Yg6C:XJ<0nGU5e0
+R6
+32
+R7
+R8
+R9
+R10
+R11
+!s100 1MPkz<[mF18WimC7XoGa32
+!i10b 1
+Eadder8
+Z12 w1411385834
+R1
+R2
+R3
+Z13 8D:/EEL4712/Lab2/Quiz/Quartus/adder8.vhd
+Z14 FD:/EEL4712/Lab2/Quiz/Quartus/adder8.vhd
+l0
+L7
+Vfn`XC_aRzz>Hl5Vl5];4P3
+R6
+32
+Z15 !s108 1411417775.976000
+Z16 !s90 -reportprogress|300|-work|work|-2002|-explicit|D:/EEL4712/Lab2/Quiz/Quartus/adder8.vhd|
+Z17 !s107 D:/EEL4712/Lab2/Quiz/Quartus/adder8.vhd|
+R10
+R11
+!s100 n^3VS?e3c>e]`b0f:Y8f92
+!i10b 1
+Astr
+R1
+R2
+DEx4 work 6 adder8 0 22 fn`XC_aRzz>Hl5Vl5];4P3
+l28
+L19
+V@aOS0Fc2WhJDdm>3HjO<a3
+R6
+32
+R15
+R16
+R17
+R10
+R11
+!s100 G]Lf8V?R]NKdF:XEPL5jb2
+!i10b 1
+Efa
+Z18 w1410833922
+R1
+R2
+R3
+Z19 8D:/EEL4712/Lab2/Quiz/Quartus/fa.vhd
+Z20 FD:/EEL4712/Lab2/Quiz/Quartus/fa.vhd
+l0
+L6
+VgD?`DeY9eeRPoCZbN7j4S3
+R6
+32
+Z21 !s108 1411417776.506000
+Z22 !s90 -reportprogress|300|-work|work|-2002|-explicit|D:/EEL4712/Lab2/Quiz/Quartus/fa.vhd|
+Z23 !s107 D:/EEL4712/Lab2/Quiz/Quartus/fa.vhd|
+R10
+R11
+!s100 4@bSWGVZOB2kPmQh^1>cT1
+!i10b 1
+Abhv
+R1
+R2
+DEx4 work 2 fa 0 22 gD?`DeY9eeRPoCZbN7j4S3
+l18
+L17
+V>Z5NFmmT21f2`OUJSBai>3
+R6
+32
+R21
+R22
+R23
+R10
+R11
+!s100 6ITeeAbm?>TiFF=I@3?:h0
+!i10b 1
+Esub_tb
+Z24 w1411417659
+Z25 DPx4 ieee 11 numeric_std 0 22 O3PF8EB`?j9=z7KT`fn941
+R1
+R2
+R3
+Z26 8D:/EEL4712/Lab2/Quiz/Quartus/Sub_tb.vhd
+Z27 FD:/EEL4712/Lab2/Quiz/Quartus/Sub_tb.vhd
+l0
+L8
+V<AVJMiP4gB5T[>5Min8>C3
+R6
+32
+Z28 !s108 1411417777.177000
+Z29 !s90 -reportprogress|300|-work|work|-2002|-explicit|D:/EEL4712/Lab2/Quiz/Quartus/Sub_tb.vhd|
+Z30 !s107 D:/EEL4712/Lab2/Quiz/Quartus/Sub_tb.vhd|
+R10
+R11
+!s100 mJnL3<M1EBO1iCBZh4;D]0
+!i10b 1
+Atb
+Z31 DEx4 work 8 subtract 0 22 0LFe]AJUBTGP`bb03:<T33
+R25
+R1
+R2
+DEx4 work 6 sub_tb 0 22 <AVJMiP4gB5T[>5Min8>C3
+l16
+L11
+VR<K?02Ia_9m?V]WR_k:gn2
+R6
+32
+R28
+R29
+R30
+R10
+R11
+!s100 ROfYTh_Xz[GgELEYDAg7K1
+!i10b 1
+Esubtract
+Z32 w1411417603
+R1
+R2
+R3
+Z33 8D:/EEL4712/Lab2/Quiz/Quartus/Subtract.vhd
+Z34 FD:/EEL4712/Lab2/Quiz/Quartus/Subtract.vhd
+l0
+L7
+V0LFe]AJUBTGP`bb03:<T33
+!s100 SR72QgHQaA>IoN5dfV:e31
+R6
+32
+!i10b 1
+Z35 !s108 1411417777.957000
+Z36 !s90 -reportprogress|300|-work|work|-2002|-explicit|D:/EEL4712/Lab2/Quiz/Quartus/Subtract.vhd|
+Z37 !s107 D:/EEL4712/Lab2/Quiz/Quartus/Subtract.vhd|
+R10
+R11
+Astr
+R1
+R2
+R31
+l28
+L17
+Z38 V`>dhnF@o?WT4;FF0eX`Mb2
+Z39 !s100 2Nhe07;LN[DWV7aRP6QUE1
+R6
+32
+!i10b 1
+R35
+R36
+R37
+R10
+R11

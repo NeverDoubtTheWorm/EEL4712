@@ -1,0 +1,116 @@
+D:/Dropbox/EEL4712/Lab5/Part2/Quartus/datapath1.vhd {1 {vcom -work work -2002 -explicit D:/Dropbox/EEL4712/Lab5/Part2/Quartus/datapath1.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Loading package NUMERIC_STD
+-- Compiling entity datapath1
+-- Compiling architecture behavior of datapath1
+
+} {} {}} D:/Dropbox/EEL4712/Lab5/Part2/Quartus/comparator.vhd {1 {vcom -work work -2002 -explicit D:/Dropbox/EEL4712/Lab5/Part2/Quartus/comparator.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Loading package NUMERIC_STD
+-- Compiling entity comparator
+-- Compiling architecture behavior of comparator
+
+} {} {}} D:/Dropbox/EEL4712/Lab5/Part2/Quartus/subtractor.vhd {1 {vcom -work work -2002 -explicit D:/Dropbox/EEL4712/Lab5/Part2/Quartus/subtractor.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Loading package NUMERIC_STD
+-- Compiling entity subtractor
+-- Compiling architecture behavior of subtractor
+
+} {} {}} D:/Dropbox/EEL4712/Lab5/Part2/Quartus/datapath2.vhd {1 {vcom -work work -2002 -explicit D:/Dropbox/EEL4712/Lab5/Part2/Quartus/datapath2.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Loading package NUMERIC_STD
+-- Compiling entity datapath2
+-- Compiling architecture behavior of datapath2
+
+} {} {}} D:/Dropbox/EEL4712/Lab5/Part2/Quartus/mux.vhd {1 {vcom -work work -2002 -explicit D:/Dropbox/EEL4712/Lab5/Part2/Quartus/mux.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Loading package NUMERIC_STD
+-- Compiling entity mux
+-- Compiling architecture behavior of mux
+
+} {} {}} D:/Dropbox/EEL4712/Lab5/Part2/Quartus/ctrl1.vhd {1 {vcom -work work -2002 -explicit D:/Dropbox/EEL4712/Lab5/Part2/Quartus/ctrl1.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Loading package NUMERIC_STD
+-- Compiling entity ctrl1
+-- Compiling architecture behavior of ctrl1
+
+} {} {}} D:/Dropbox/EEL4712/Lab5/Part2/Quartus/reg.vhd {1 {vcom -work work -2002 -explicit D:/Dropbox/EEL4712/Lab5/Part2/Quartus/reg.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Loading package NUMERIC_STD
+-- Compiling entity reg
+-- Compiling architecture behavior of reg
+
+} {} {}} D:/Dropbox/EEL4712/Lab5/Part2/Quartus/gcd.vhd {1 {vcom -work work -2002 -explicit D:/Dropbox/EEL4712/Lab5/Part2/Quartus/gcd.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Loading package NUMERIC_STD
+-- Compiling entity gcd
+-- Compiling architecture FSM_D1 of gcd
+-- Compiling architecture FSM_D2 of gcd
+-- Loading entity gcd
+-- Compiling architecture FSM_D3 of gcd
+-- Loading entity gcd
+
+} {} {}} D:/Dropbox/EEL4712/Lab5/Part2/Quartus/ctrl2.vhd {1 {vcom -work work -2002 -explicit D:/Dropbox/EEL4712/Lab5/Part2/Quartus/ctrl2.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Loading package NUMERIC_STD
+-- Compiling entity ctrl2
+-- Compiling architecture behavior of ctrl2
+
+} {} {}} D:/Dropbox/EEL4712/Lab5/Part2/Quartus/gcd_tb.vhd {1 {vcom -work work -2002 -explicit D:/Dropbox/EEL4712/Lab5/Part2/Quartus/gcd_tb.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity gcd_tb
+-- Compiling architecture TB of gcd_tb
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Loading entity gcd
+
+} {} {}}

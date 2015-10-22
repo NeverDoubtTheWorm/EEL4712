@@ -1,0 +1,18 @@
+-- Sean Thomas 
+-- Section: 1361
+library ieee; 
+use ieee.std_logic_1164.all;
+use ieee.std_logic_unsigned.all;
+use ieee.numeric_std.all;
+
+entity subtractor is
+	Generic (WIDTH 		: positive := 16);
+	Port (rst				: in  std_logic;
+			input1, input2	: in  std_logic_vector(WIDTH-1 Downto 0);
+			output			: out std_logic_vector(WIDTH-1 Downto 0));
+end subtractor;
+
+ARCHITECTURE behavior OF subtractor IS
+BEGIN
+	output <= (input1 - input2) WHEN (rst = '0') ELSE (others => '0');
+END behavior;

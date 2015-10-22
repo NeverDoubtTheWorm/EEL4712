@@ -1,0 +1,5 @@
+|PixelClock
+clk => clk25.CLK
+pixel_clock <= clk25.DB_MAX_OUTPUT_PORT_TYPE
+
+

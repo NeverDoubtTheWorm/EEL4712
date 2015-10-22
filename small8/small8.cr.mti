@@ -1,0 +1,202 @@
+D:/Dropbox/EEL4712/small8/decoder7seg.vhd {1 {vcom -work work -2002 -explicit D:/Dropbox/EEL4712/small8/decoder7seg.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity decoder7seg
+-- Compiling architecture behaviour of decoder7seg
+
+} {} {}} D:/Dropbox/EEL4712/small8/IO_port.vhd {1 {vcom -work work -2002 -explicit D:/Dropbox/EEL4712/small8/IO_port.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity IO_port
+-- Compiling architecture behaviour of IO_port
+-- Loading entity reg
+
+} {} {}} D:/Dropbox/EEL4712/small8/reg.vhd {1 {vcom -work work -2002 -explicit D:/Dropbox/EEL4712/small8/reg.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity reg
+-- Compiling architecture behaviour of reg
+
+} {} {}} D:/Dropbox/EEL4712/small8/status_sel.vhd {1 {vcom -work work -2002 -explicit D:/Dropbox/EEL4712/small8/status_sel.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity status_sel
+-- Compiling architecture behaviour of status_sel
+
+} {} {}} D:/Dropbox/EEL4712/small8/status_decode.vhd {1 {vcom -work work -2002 -explicit D:/Dropbox/EEL4712/small8/status_decode.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity status_decode
+-- Compiling architecture behaviour of status_decode
+
+} {} {}} D:/Dropbox/EEL4712/small8/internal_architecture.vhd {1 {vcom -work work -2002 -explicit D:/Dropbox/EEL4712/small8/internal_architecture.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity internal_architecture
+-- Compiling architecture behaviour of internal_architecture
+-- Loading entity status_reg
+-- Loading entity alu
+-- Loading entity reg
+-- Loading entity adder
+-- Loading entity buss
+
+} {} {}} D:/Dropbox/EEL4712/small8/RAM.vhd {1 {vcom -work work -2002 -explicit {D:\Dropbox\EEL4712\small8\RAM.vhd}
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package altera_mf_components
+-- Compiling entity RAM
+-- Compiling architecture SYN of ram
+
+} {} {}} D:/Dropbox/EEL4712/small8/adder.vhd {1 {vcom -work work -2002 -explicit D:/Dropbox/EEL4712/small8/adder.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity adder
+-- Compiling architecture behaviour of adder
+
+} {} {}} D:/Dropbox/EEL4712/small8/cpu.vhd {1 {vcom -work work -2002 -explicit D:/Dropbox/EEL4712/small8/cpu.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity cpu
+-- Compiling architecture behaviour of cpu
+-- Loading entity internal_architecture
+-- Loading entity reg
+-- Loading package lib
+-- Loading entity controller
+-- Loading entity buss
+
+} {} {}} D:/Dropbox/EEL4712/small8/top_level.vhd {1 {vcom -work work -2002 -explicit D:/Dropbox/EEL4712/small8/top_level.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity top_level
+-- Compiling architecture behaviour of top_level
+-- Loading entity decoder7seg
+-- Loading package NUMERIC_STD
+-- Loading entity small
+
+} {} {}} D:/Dropbox/EEL4712/small8/controller.vhd {1 {vcom -work work -2002 -explicit D:/Dropbox/EEL4712/small8/controller.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package lib
+-- Compiling entity controller
+-- Compiling architecture behaviour of controller
+
+} {} {}} D:/Dropbox/EEL4712/small8/external_architecture.vhd {1 {vcom -work work -2002 -explicit D:/Dropbox/EEL4712/small8/external_architecture.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity external_architecture
+-- Compiling architecture behaviour of external_architecture
+-- Loading entity IO_port
+-- Loading package altera_mf_components
+-- Loading entity RAM
+-- Loading entity addr_sel
+-- Loading package lib
+-- Loading entity decoder
+
+} {} {}} D:/Dropbox/EEL4712/small8/buss.vhd {1 {vcom -work work -2002 -explicit D:/Dropbox/EEL4712/small8/buss.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity buss
+-- Compiling architecture behaviour of buss
+
+} {} {}} D:/Dropbox/EEL4712/small8/addr_sel.vhd {1 {vcom -work work -2002 -explicit D:/Dropbox/EEL4712/small8/addr_sel.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity addr_sel
+-- Compiling architecture behaviour of addr_sel
+
+} {} {}} D:/Dropbox/EEL4712/small8/decoder.vhd {1 {vcom -work work -2002 -explicit D:/Dropbox/EEL4712/small8/decoder.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package lib
+-- Compiling entity decoder
+-- Compiling architecture behaviour of decoder
+
+} {} {}} D:/Dropbox/EEL4712/small8/lib.vhd {1 {vcom -work work -2002 -explicit D:/Dropbox/EEL4712/small8/lib.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling package lib
+
+} {} {}} D:/Dropbox/EEL4712/small8/deliverable3_tb.vhd {1 {vcom -work work -2002 -explicit D:/Dropbox/EEL4712/small8/deliverable3_tb.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Loading package lib
+-- Compiling entity deliverable3_tb
+-- Compiling architecture TB of deliverable3_tb
+
+} {} {}} D:/Dropbox/EEL4712/small8/status_reg.vhd {1 {vcom -work work -2002 -explicit D:/Dropbox/EEL4712/small8/status_reg.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity status_reg
+-- Compiling architecture behaviour of status_reg
+
+} {} {}} D:/Dropbox/EEL4712/small8/small.vhd {1 {vcom -work work -2002 -explicit D:/Dropbox/EEL4712/small8/small.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity small
+-- Compiling architecture behaviour of small
+-- Loading entity cpu
+-- Loading entity external_architecture
+
+} {} {}} D:/Dropbox/EEL4712/small8/alu.vhd {1 {vcom -work work -2002 -explicit D:/Dropbox/EEL4712/small8/alu.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity alu
+-- Compiling architecture behaviour of alu
+
+} {} {}}

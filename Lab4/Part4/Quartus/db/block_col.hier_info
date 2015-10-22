@@ -1,0 +1,19 @@
+|block_col
+Hcount[0] => col_count[0].DATAIN
+Hcount[1] => col_count[1].DATAIN
+Hcount[2] => col_count[2].DATAIN
+Hcount[3] => col_count[3].DATAIN
+Hcount[4] => col_count[4].DATAIN
+Hcount[5] => col_count[5].DATAIN
+Hcount[6] => ~NO_FANOUT~
+Hcount[7] => ~NO_FANOUT~
+Hcount[8] => ~NO_FANOUT~
+Hcount[9] => ~NO_FANOUT~
+col_count[0] << Hcount[0].DB_MAX_OUTPUT_PORT_TYPE
+col_count[1] << Hcount[1].DB_MAX_OUTPUT_PORT_TYPE
+col_count[2] << Hcount[2].DB_MAX_OUTPUT_PORT_TYPE
+col_count[3] << Hcount[3].DB_MAX_OUTPUT_PORT_TYPE
+col_count[4] << Hcount[4].DB_MAX_OUTPUT_PORT_TYPE
+col_count[5] << Hcount[5].DB_MAX_OUTPUT_PORT_TYPE
+
+

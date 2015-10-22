@@ -1,0 +1,363 @@
+|Subtract
+input1[0] => adder8:a1.input1[0]
+input1[1] => adder8:a1.input1[1]
+input1[2] => adder8:a1.input1[2]
+input1[3] => adder8:a1.input1[3]
+input1[4] => adder8:a1.input1[4]
+input1[5] => adder8:a1.input1[5]
+input1[6] => adder8:a1.input1[6]
+input1[7] => adder8:a1.input1[7]
+input2[0] => adder8:a0.input2[0]
+input2[1] => adder8:a0.input2[1]
+input2[2] => adder8:a0.input2[2]
+input2[3] => adder8:a0.input2[3]
+input2[4] => adder8:a0.input2[4]
+input2[5] => adder8:a0.input2[5]
+input2[6] => adder8:a0.input2[6]
+input2[7] => adder8:a0.input2[7]
+sum[0] <= adder8:a1.sum[0]
+sum[1] <= adder8:a1.sum[1]
+sum[2] <= adder8:a1.sum[2]
+sum[3] <= adder8:a1.sum[3]
+sum[4] <= adder8:a1.sum[4]
+sum[5] <= adder8:a1.sum[5]
+sum[6] <= adder8:a1.sum[6]
+sum[7] <= adder8:a1.sum[7]
+carry_out <= adder8:a1.carry_out
+carry_in <= comb.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Subtract|adder8:a0
+input1[0] => adder:adder1.input1[0]
+input1[1] => adder:adder1.input1[1]
+input1[2] => adder:adder1.input1[2]
+input1[3] => adder:adder1.input1[3]
+input1[4] => adder:adder2.input1[0]
+input1[5] => adder:adder2.input1[1]
+input1[6] => adder:adder2.input1[2]
+input1[7] => adder:adder2.input1[3]
+input2[0] => adder:adder1.input2[0]
+input2[1] => adder:adder1.input2[1]
+input2[2] => adder:adder1.input2[2]
+input2[3] => adder:adder1.input2[3]
+input2[4] => adder:adder2.input2[0]
+input2[5] => adder:adder2.input2[1]
+input2[6] => adder:adder2.input2[2]
+input2[7] => adder:adder2.input2[3]
+carry_in => adder:adder1.carry_in
+sum[0] <= adder:adder1.sum[0]
+sum[1] <= adder:adder1.sum[1]
+sum[2] <= adder:adder1.sum[2]
+sum[3] <= adder:adder1.sum[3]
+sum[4] <= adder:adder2.sum[0]
+sum[5] <= adder:adder2.sum[1]
+sum[6] <= adder:adder2.sum[2]
+sum[7] <= adder:adder2.sum[3]
+carry_out <= adder:adder2.carry_out
+
+
+|Subtract|adder8:a0|adder:adder1
+input1[0] => fa:f0.input1
+input1[1] => fa:f1.input1
+input1[2] => fa:f2.input1
+input1[3] => fa:f3.input1
+input2[0] => fa:f0.input2
+input2[1] => fa:f1.input2
+input2[2] => fa:f2.input2
+input2[3] => fa:f3.input2
+carry_in => fa:f0.carry_in
+sum[0] <= fa:f0.sum
+sum[1] <= fa:f1.sum
+sum[2] <= fa:f2.sum
+sum[3] <= fa:f3.sum
+carry_out <= fa:f3.carry_out
+
+
+|Subtract|adder8:a0|adder:adder1|fa:f0
+input1 => sum.IN0
+input1 => carry_out.IN0
+input1 => carry_out.IN0
+input2 => sum.IN1
+input2 => carry_out.IN1
+input2 => carry_out.IN1
+carry_in => sum.IN1
+carry_in => carry_out.IN1
+sum <= sum.DB_MAX_OUTPUT_PORT_TYPE
+carry_out <= carry_out.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Subtract|adder8:a0|adder:adder1|fa:f1
+input1 => sum.IN0
+input1 => carry_out.IN0
+input1 => carry_out.IN0
+input2 => sum.IN1
+input2 => carry_out.IN1
+input2 => carry_out.IN1
+carry_in => sum.IN1
+carry_in => carry_out.IN1
+sum <= sum.DB_MAX_OUTPUT_PORT_TYPE
+carry_out <= carry_out.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Subtract|adder8:a0|adder:adder1|fa:f2
+input1 => sum.IN0
+input1 => carry_out.IN0
+input1 => carry_out.IN0
+input2 => sum.IN1
+input2 => carry_out.IN1
+input2 => carry_out.IN1
+carry_in => sum.IN1
+carry_in => carry_out.IN1
+sum <= sum.DB_MAX_OUTPUT_PORT_TYPE
+carry_out <= carry_out.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Subtract|adder8:a0|adder:adder1|fa:f3
+input1 => sum.IN0
+input1 => carry_out.IN0
+input1 => carry_out.IN0
+input2 => sum.IN1
+input2 => carry_out.IN1
+input2 => carry_out.IN1
+carry_in => sum.IN1
+carry_in => carry_out.IN1
+sum <= sum.DB_MAX_OUTPUT_PORT_TYPE
+carry_out <= carry_out.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Subtract|adder8:a0|adder:adder2
+input1[0] => fa:f0.input1
+input1[1] => fa:f1.input1
+input1[2] => fa:f2.input1
+input1[3] => fa:f3.input1
+input2[0] => fa:f0.input2
+input2[1] => fa:f1.input2
+input2[2] => fa:f2.input2
+input2[3] => fa:f3.input2
+carry_in => fa:f0.carry_in
+sum[0] <= fa:f0.sum
+sum[1] <= fa:f1.sum
+sum[2] <= fa:f2.sum
+sum[3] <= fa:f3.sum
+carry_out <= fa:f3.carry_out
+
+
+|Subtract|adder8:a0|adder:adder2|fa:f0
+input1 => sum.IN0
+input1 => carry_out.IN0
+input1 => carry_out.IN0
+input2 => sum.IN1
+input2 => carry_out.IN1
+input2 => carry_out.IN1
+carry_in => sum.IN1
+carry_in => carry_out.IN1
+sum <= sum.DB_MAX_OUTPUT_PORT_TYPE
+carry_out <= carry_out.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Subtract|adder8:a0|adder:adder2|fa:f1
+input1 => sum.IN0
+input1 => carry_out.IN0
+input1 => carry_out.IN0
+input2 => sum.IN1
+input2 => carry_out.IN1
+input2 => carry_out.IN1
+carry_in => sum.IN1
+carry_in => carry_out.IN1
+sum <= sum.DB_MAX_OUTPUT_PORT_TYPE
+carry_out <= carry_out.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Subtract|adder8:a0|adder:adder2|fa:f2
+input1 => sum.IN0
+input1 => carry_out.IN0
+input1 => carry_out.IN0
+input2 => sum.IN1
+input2 => carry_out.IN1
+input2 => carry_out.IN1
+carry_in => sum.IN1
+carry_in => carry_out.IN1
+sum <= sum.DB_MAX_OUTPUT_PORT_TYPE
+carry_out <= carry_out.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Subtract|adder8:a0|adder:adder2|fa:f3
+input1 => sum.IN0
+input1 => carry_out.IN0
+input1 => carry_out.IN0
+input2 => sum.IN1
+input2 => carry_out.IN1
+input2 => carry_out.IN1
+carry_in => sum.IN1
+carry_in => carry_out.IN1
+sum <= sum.DB_MAX_OUTPUT_PORT_TYPE
+carry_out <= carry_out.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Subtract|adder8:a1
+input1[0] => adder:adder1.input1[0]
+input1[1] => adder:adder1.input1[1]
+input1[2] => adder:adder1.input1[2]
+input1[3] => adder:adder1.input1[3]
+input1[4] => adder:adder2.input1[0]
+input1[5] => adder:adder2.input1[1]
+input1[6] => adder:adder2.input1[2]
+input1[7] => adder:adder2.input1[3]
+input2[0] => adder:adder1.input2[0]
+input2[1] => adder:adder1.input2[1]
+input2[2] => adder:adder1.input2[2]
+input2[3] => adder:adder1.input2[3]
+input2[4] => adder:adder2.input2[0]
+input2[5] => adder:adder2.input2[1]
+input2[6] => adder:adder2.input2[2]
+input2[7] => adder:adder2.input2[3]
+carry_in => adder:adder1.carry_in
+sum[0] <= adder:adder1.sum[0]
+sum[1] <= adder:adder1.sum[1]
+sum[2] <= adder:adder1.sum[2]
+sum[3] <= adder:adder1.sum[3]
+sum[4] <= adder:adder2.sum[0]
+sum[5] <= adder:adder2.sum[1]
+sum[6] <= adder:adder2.sum[2]
+sum[7] <= adder:adder2.sum[3]
+carry_out <= adder:adder2.carry_out
+
+
+|Subtract|adder8:a1|adder:adder1
+input1[0] => fa:f0.input1
+input1[1] => fa:f1.input1
+input1[2] => fa:f2.input1
+input1[3] => fa:f3.input1
+input2[0] => fa:f0.input2
+input2[1] => fa:f1.input2
+input2[2] => fa:f2.input2
+input2[3] => fa:f3.input2
+carry_in => fa:f0.carry_in
+sum[0] <= fa:f0.sum
+sum[1] <= fa:f1.sum
+sum[2] <= fa:f2.sum
+sum[3] <= fa:f3.sum
+carry_out <= fa:f3.carry_out
+
+
+|Subtract|adder8:a1|adder:adder1|fa:f0
+input1 => sum.IN0
+input1 => carry_out.IN0
+input1 => carry_out.IN0
+input2 => sum.IN1
+input2 => carry_out.IN1
+input2 => carry_out.IN1
+carry_in => sum.IN1
+carry_in => carry_out.IN1
+sum <= sum.DB_MAX_OUTPUT_PORT_TYPE
+carry_out <= carry_out.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Subtract|adder8:a1|adder:adder1|fa:f1
+input1 => sum.IN0
+input1 => carry_out.IN0
+input1 => carry_out.IN0
+input2 => sum.IN1
+input2 => carry_out.IN1
+input2 => carry_out.IN1
+carry_in => sum.IN1
+carry_in => carry_out.IN1
+sum <= sum.DB_MAX_OUTPUT_PORT_TYPE
+carry_out <= carry_out.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Subtract|adder8:a1|adder:adder1|fa:f2
+input1 => sum.IN0
+input1 => carry_out.IN0
+input1 => carry_out.IN0
+input2 => sum.IN1
+input2 => carry_out.IN1
+input2 => carry_out.IN1
+carry_in => sum.IN1
+carry_in => carry_out.IN1
+sum <= sum.DB_MAX_OUTPUT_PORT_TYPE
+carry_out <= carry_out.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Subtract|adder8:a1|adder:adder1|fa:f3
+input1 => sum.IN0
+input1 => carry_out.IN0
+input1 => carry_out.IN0
+input2 => sum.IN1
+input2 => carry_out.IN1
+input2 => carry_out.IN1
+carry_in => sum.IN1
+carry_in => carry_out.IN1
+sum <= sum.DB_MAX_OUTPUT_PORT_TYPE
+carry_out <= carry_out.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Subtract|adder8:a1|adder:adder2
+input1[0] => fa:f0.input1
+input1[1] => fa:f1.input1
+input1[2] => fa:f2.input1
+input1[3] => fa:f3.input1
+input2[0] => fa:f0.input2
+input2[1] => fa:f1.input2
+input2[2] => fa:f2.input2
+input2[3] => fa:f3.input2
+carry_in => fa:f0.carry_in
+sum[0] <= fa:f0.sum
+sum[1] <= fa:f1.sum
+sum[2] <= fa:f2.sum
+sum[3] <= fa:f3.sum
+carry_out <= fa:f3.carry_out
+
+
+|Subtract|adder8:a1|adder:adder2|fa:f0
+input1 => sum.IN0
+input1 => carry_out.IN0
+input1 => carry_out.IN0
+input2 => sum.IN1
+input2 => carry_out.IN1
+input2 => carry_out.IN1
+carry_in => sum.IN1
+carry_in => carry_out.IN1
+sum <= sum.DB_MAX_OUTPUT_PORT_TYPE
+carry_out <= carry_out.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Subtract|adder8:a1|adder:adder2|fa:f1
+input1 => sum.IN0
+input1 => carry_out.IN0
+input1 => carry_out.IN0
+input2 => sum.IN1
+input2 => carry_out.IN1
+input2 => carry_out.IN1
+carry_in => sum.IN1
+carry_in => carry_out.IN1
+sum <= sum.DB_MAX_OUTPUT_PORT_TYPE
+carry_out <= carry_out.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Subtract|adder8:a1|adder:adder2|fa:f2
+input1 => sum.IN0
+input1 => carry_out.IN0
+input1 => carry_out.IN0
+input2 => sum.IN1
+input2 => carry_out.IN1
+input2 => carry_out.IN1
+carry_in => sum.IN1
+carry_in => carry_out.IN1
+sum <= sum.DB_MAX_OUTPUT_PORT_TYPE
+carry_out <= carry_out.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Subtract|adder8:a1|adder:adder2|fa:f3
+input1 => sum.IN0
+input1 => carry_out.IN0
+input1 => carry_out.IN0
+input2 => sum.IN1
+input2 => carry_out.IN1
+input2 => carry_out.IN1
+carry_in => sum.IN1
+carry_in => carry_out.IN1
+sum <= sum.DB_MAX_OUTPUT_PORT_TYPE
+carry_out <= carry_out.DB_MAX_OUTPUT_PORT_TYPE
+
+

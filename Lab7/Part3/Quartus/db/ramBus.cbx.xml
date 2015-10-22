@@ -1,0 +1,6 @@
+<?xml version="1.0" ?>
+<LOG_ROOT>
+	<PROJECT NAME="ramBus">
+		<CBX_INST_ENTRY INSTANCE_NAME="|ramBus|lab7ram:rm|altsyncram:altsyncram_component" CBX_FILE_NAME="altsyncram_lmv3.tdf"/>
+	</PROJECT>
+</LOG_ROOT>

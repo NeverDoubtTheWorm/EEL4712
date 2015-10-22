@@ -1,0 +1,8 @@
+
+State Machine - |ramBus|controller:ct|present_state
+Name present_state.addr present_state.s11 present_state.s10 present_state.s01 present_state.s00 
+present_state.s00 0 0 0 0 0 
+present_state.s01 0 0 0 1 1 
+present_state.s10 0 0 1 0 1 
+present_state.s11 0 1 0 0 1 
+present_state.addr 1 0 0 0 1 

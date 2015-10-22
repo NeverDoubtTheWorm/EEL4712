@@ -1,0 +1,25 @@
+Quartus II Archive log --	C:/Users/Sean Thomas/Dropbox/EEL4712/Lab4/Part4/Quartus/output_files/top_level.qarlog
+
+Archive:	C:/Users/Sean Thomas/Dropbox/EEL4712/Lab4/Part4/Quartus/output_files/top_level.qar
+Date:		Mon Oct 13 08:12:06 2014
+Quartus II 64-Bit		13.1.0 Build 162 10/23/2013 SJ Web Edition
+
+	=========== Files Selected: ===========
+C:/Users/Sean Thomas/Dropbox/EEL4712/Lab4/Lab4vhdlFiles/brom.mif
+C:/Users/Sean Thomas/Dropbox/EEL4712/Lab4/Lab4vhdlFiles/vga_lib.vhd
+C:/Users/Sean Thomas/Dropbox/EEL4712/Lab4/Part1/Quartus/PixelClock.vhd
+C:/Users/Sean Thomas/Dropbox/EEL4712/Lab4/Part2/Quartus/VGA_sync_gen.vhd
+C:/Users/Sean Thomas/Dropbox/EEL4712/Lab4/Part4/Quartus/block_col.vhd
+C:/Users/Sean Thomas/Dropbox/EEL4712/Lab4/Part4/Quartus/block_row.vhd
+C:/Users/Sean Thomas/Dropbox/EEL4712/Lab4/Part4/Quartus/db/top_level.cmp.hdb
+C:/Users/Sean Thomas/Dropbox/EEL4712/Lab4/Part4/Quartus/db/top_level.db_info
+C:/Users/Sean Thomas/Dropbox/EEL4712/Lab4/Part4/Quartus/incremental_db/compiled_partitions/top_level.db_info
+C:/Users/Sean Thomas/Dropbox/EEL4712/Lab4/Part4/Quartus/top_level.qpf
+C:/Users/Sean Thomas/Dropbox/EEL4712/Lab4/Part4/Quartus/top_level.qsf
+C:/Users/Sean Thomas/Dropbox/EEL4712/Lab4/Part4/Quartus/top_level.vhd
+C:/Users/Sean Thomas/Dropbox/EEL4712/Lab4/Part4/Quartus/vga_rom.vhd
+c:/altera/13.1/quartus/bin64/assignment_defaults.qdf
+	======= Total: 14 files to archive =======
+
+	================ Status: ===============
+All files archived successfully.

@@ -1,0 +1,35 @@
+{C:/Users/Sean Thomas/Documents/EEL4712/Lab2/Lab2vhdlFiles/adder_tb.vhd} {1 {vcom -work work -2002 -explicit {C:/Users/Sean Thomas/Documents/EEL4712/Lab2/Lab2vhdlFiles/adder_tb.vhd}
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity adder_tb
+-- Compiling architecture TB of adder_tb
+-- Loading entity adder8
+
+} {} {}} {C:/Users/Sean Thomas/Documents/EEL4712/Lab2/Part3/QuartusPart3/fa.vhd} {1 {vcom -work work -2002 -explicit {C:/Users/Sean Thomas/Documents/EEL4712/Lab2/Part3/QuartusPart3/fa.vhd}
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity fa
+-- Compiling architecture BHV of fa
+
+} {} {}} {C:/Users/Sean Thomas/Documents/EEL4712/Lab2/Part3/QuartusPart3/adder8.vhd} {1 {vcom -work work -2002 -explicit {C:/Users/Sean Thomas/Documents/EEL4712/Lab2/Part3/QuartusPart3/adder8.vhd}
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity adder8
+-- Compiling architecture STR of adder8
+
+} {} {}} {C:/Users/Sean Thomas/Documents/EEL4712/Lab2/Part3/QuartusPart3/adder.vhd} {1 {vcom -work work -2002 -explicit {C:/Users/Sean Thomas/Documents/EEL4712/Lab2/Part3/QuartusPart3/adder.vhd}
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity adder
+-- Compiling architecture STR of adder
+
+} {} {}}

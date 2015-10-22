@@ -1,0 +1,15 @@
+vendor_name = ModelSim
+source_file = 1, D:/EEL4712/Lab1/QuartusPart2/fa.vhd
+source_file = 1, D:/EEL4712/Lab1/QuartusPart2/db/fa.cbx.xml
+source_file = 1, d:/altera/13.1/quartus/libraries/vhdl/ieee/prmtvs_b.vhd
+source_file = 1, d:/altera/13.1/quartus/libraries/vhdl/ieee/prmtvs_p.vhd
+source_file = 1, d:/altera/13.1/quartus/libraries/vhdl/ieee/timing_b.vhd
+source_file = 1, d:/altera/13.1/quartus/libraries/vhdl/ieee/timing_p.vhd
+design_name = fa
+instance = comp, \sum~output\, sum~output, fa, 1
+instance = comp, \carry_out~output\, carry_out~output, fa, 1
+instance = comp, \carry_in~input\, carry_in~input, fa, 1
+instance = comp, \input1~input\, input1~input, fa, 1
+instance = comp, \input2~input\, input2~input, fa, 1
+instance = comp, \sum~0\, sum~0, fa, 1
+instance = comp, \carry_out~0\, carry_out~0, fa, 1

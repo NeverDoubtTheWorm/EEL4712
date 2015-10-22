@@ -1,0 +1,29 @@
+library ieee;
+use ieee.std_logic_1164.all;
+
+-- Sean Thomas 
+-- Section: 1361
+
+entity mux421 is
+  port (
+    S_L    	  	    : in  std_logic_vector(1 downto 0);
+    D0, D1, D2, D3 : in  std_logic;
+    En             : in  std_logic;
+    Y_L 		       : out std_logic);
+end mux421;
+
+-- DEFINE A RIPPLE-CARRY ADDER USING A STRUCTURE DESCRIPTION THAT CONSISTS OF 4
+-- FULL ADDERS
+
+architecture STR of mux421 is  
+    signal S  : std_logic_vector(1 downto 0);
+	 signal Y  : std_logic;
+begin  -- STR
+	 S <= not S_L;
+	 Y <=D0 when (S = "00" and En = '1') else
+        D1 when (S = "01" and En = '1') else
+        D2 when (S = "10" and En = '1') else
+        D3 when (S = "10" and En = '1') else
+        '0' ;
+	 Y_L <= not Y;
+end STR;

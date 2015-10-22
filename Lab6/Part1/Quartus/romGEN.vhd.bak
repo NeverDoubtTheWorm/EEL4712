@@ -1,0 +1,30 @@
+-- Sean Thomas 
+-- Section: 1361
+library ieee; 
+use ieee.std_logic_1164.all;
+use ieee.std_logic_unsigned.all;
+use ieee.numeric_std.all;
+
+entity romGEN is
+	port (	clk		: 	IN  		STD_LOGIC;
+				EN			: 	IN  		STD_LOGIC;
+				ROMaddr	: 	BUFFER	STD_LOGIC_VECTOR ( 9 downto 0) := (Others=>'0'));
+end romGEN;
+
+ARCHITECTURE behavior OF romGEN IS
+	SIGNAL clk_count					 : STD_LOGIC_VECTOR( 5 downto 0) := (Others=>'0');
+BEGIN
+	Process(clk,input)
+	BEGIN
+		IF (clk'event and clk = '1' and EN = '1') THEN
+			IF (clk_count < 34) THEN
+				clk_count <= clk_count + 1;
+			ELSIF clk_count = "100010" THEN
+				ROMaddr <= ROMaddr + 1;
+				clk_count <= (Others=>'0');
+			ELSE
+				clk_count <= (Others=>'0');
+			END IF;
+		END IF;
+	END Process;
+END behavior;

@@ -1,0 +1,19 @@
+|block_row
+Vcount[0] => row_count[0].DATAIN
+Vcount[1] => row_count[1].DATAIN
+Vcount[2] => row_count[2].DATAIN
+Vcount[3] => row_count[3].DATAIN
+Vcount[4] => row_count[4].DATAIN
+Vcount[5] => row_count[5].DATAIN
+Vcount[6] => ~NO_FANOUT~
+Vcount[7] => ~NO_FANOUT~
+Vcount[8] => ~NO_FANOUT~
+Vcount[9] => ~NO_FANOUT~
+row_count[0] <= Vcount[0].DB_MAX_OUTPUT_PORT_TYPE
+row_count[1] <= Vcount[1].DB_MAX_OUTPUT_PORT_TYPE
+row_count[2] <= Vcount[2].DB_MAX_OUTPUT_PORT_TYPE
+row_count[3] <= Vcount[3].DB_MAX_OUTPUT_PORT_TYPE
+row_count[4] <= Vcount[4].DB_MAX_OUTPUT_PORT_TYPE
+row_count[5] <= Vcount[5].DB_MAX_OUTPUT_PORT_TYPE
+
+

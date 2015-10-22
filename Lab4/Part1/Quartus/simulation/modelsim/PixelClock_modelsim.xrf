@@ -1,0 +1,11 @@
+vendor_name = ModelSim
+source_file = 1, C:/Users/Sean Thomas/Dropbox/EEL4712/Lab4/Part1/Quartus/PixelClock.vhd
+source_file = 1, C:/Users/Sean Thomas/Dropbox/EEL4712/Lab4/Part1/Quartus/db/PixelClock.cbx.xml
+source_file = 1, c:/altera/13.1/quartus/libraries/vhdl/ieee/prmtvs_b.vhd
+source_file = 1, c:/altera/13.1/quartus/libraries/vhdl/ieee/prmtvs_p.vhd
+source_file = 1, c:/altera/13.1/quartus/libraries/vhdl/ieee/timing_b.vhd
+source_file = 1, c:/altera/13.1/quartus/libraries/vhdl/ieee/timing_p.vhd
+design_name = PixelClock
+instance = comp, \pixel_clock~output\, pixel_clock~output, PixelClock, 1
+instance = comp, \clk~input\, clk~input, PixelClock, 1
+instance = comp, \clk25~0\, clk25~0, PixelClock, 1

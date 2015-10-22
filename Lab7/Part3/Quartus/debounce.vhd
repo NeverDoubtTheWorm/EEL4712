@@ -1,0 +1,25 @@
+-- Sean Thomas 
+-- Section: 1361
+library ieee; 
+use ieee.std_logic_1164.all;
+use ieee.std_logic_unsigned.all;
+use ieee.std_logic_arith.all;
+use ieee.numeric_std.all;
+
+entity debounce is
+	Port (cCLK, input	: in  std_logic;
+			output		: out	std_logic);
+end debounce;
+
+ARCHITECTURE behavior OF debounce IS
+	Signal d0,d1: std_logic:='0';
+BEGIN
+	Process(cCLK)
+	BEGIN
+		IF(cCLK'event and cCLK = '1') then
+			d0 <= input;
+			d1 <= d0;
+		END IF;
+	END Process;
+	output <= d0 and not d1;
+END behavior;

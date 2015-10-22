@@ -1,0 +1,452 @@
+m255
+K3
+13
+cModel Technology
+dD:\altera\13.1
+Ecomparator
+Z0 w1414429090
+Z1 DPx4 ieee 11 numeric_std 0 22 O3PF8EB`?j9=z7KT`fn941
+Z2 DPx4 ieee 15 std_logic_arith 0 22 4`Y?g_lkdn;7UL9IiJck01
+Z3 DPx4 ieee 18 std_logic_unsigned 0 22 RYmj;=TK`k=k>D@Cz`zoB3
+Z4 DPx3 std 6 textio 0 22 5>J:;AW>W0[[dW0I6EN1Q0
+Z5 DPx4 ieee 14 std_logic_1164 0 22 5=aWaoGZSMWIcH0i^f`XF1
+Z6 dD:\Dropbox\EEL4712\Lab5\Part2\ModelSim
+Z7 8D:/Dropbox/EEL4712/Lab5/Part2/Quartus/comparator.vhd
+Z8 FD:/Dropbox/EEL4712/Lab5/Part2/Quartus/comparator.vhd
+l0
+L9
+Vf[EzZ;ViAYaoHIg1FO63N0
+Z9 OV;C;10.1d;51
+32
+Z10 !s108 1414447888.107000
+Z11 !s90 -reportprogress|300|-work|work|-2002|-explicit|D:/Dropbox/EEL4712/Lab5/Part2/Quartus/comparator.vhd|
+Z12 !s107 D:/Dropbox/EEL4712/Lab5/Part2/Quartus/comparator.vhd|
+Z13 o-work work -2002 -explicit -O0
+Z14 tExplicit 1
+!s100 7^aCbffGm4ElZ=A1eCHbC0
+!i10b 1
+Abehavior
+R1
+R2
+R3
+R4
+R5
+DEx4 work 10 comparator 0 22 f[EzZ;ViAYaoHIg1FO63N0
+l16
+L15
+VE:7e0jSKCB8DGf45XLanS0
+R9
+32
+R10
+R11
+R12
+R13
+R14
+!s100 5]`^ehXTz?m73g1>Zil7i3
+!i10b 1
+Ectrl1
+Z15 w1414432957
+R1
+R2
+R3
+R4
+R5
+R6
+Z16 8D:/Dropbox/EEL4712/Lab5/Part2/Quartus/ctrl1.vhd
+Z17 FD:/Dropbox/EEL4712/Lab5/Part2/Quartus/ctrl1.vhd
+l0
+L8
+VcFR5`@HV:U912SN`mNJ883
+R9
+32
+Z18 !s108 1414447889.105000
+Z19 !s90 -reportprogress|300|-work|work|-2002|-explicit|D:/Dropbox/EEL4712/Lab5/Part2/Quartus/ctrl1.vhd|
+Z20 !s107 D:/Dropbox/EEL4712/Lab5/Part2/Quartus/ctrl1.vhd|
+R13
+R14
+!s100 ]m?g40adEYAz0NP9ZB;S[2
+!i10b 1
+Abehavior
+R1
+R2
+R3
+R4
+R5
+DEx4 work 5 ctrl1 0 22 cFR5`@HV:U912SN`mNJ883
+l19
+L16
+V5h8`937=US1;UXi?GF2O70
+R9
+32
+R18
+R19
+R20
+R13
+R14
+!s100 f0^8XNfHi4kV:8P6E7`lO1
+!i10b 1
+Ectrl2
+Z21 w1414433201
+R1
+R2
+R3
+R4
+R5
+R6
+Z22 8D:/Dropbox/EEL4712/Lab5/Part2/Quartus/ctrl2.vhd
+Z23 FD:/Dropbox/EEL4712/Lab5/Part2/Quartus/ctrl2.vhd
+l0
+L8
+V`cK8Xo[oY[:Zj?3bJ`Go<3
+R9
+32
+Z24 !s108 1414447889.916000
+Z25 !s90 -reportprogress|300|-work|work|-2002|-explicit|D:/Dropbox/EEL4712/Lab5/Part2/Quartus/ctrl2.vhd|
+Z26 !s107 D:/Dropbox/EEL4712/Lab5/Part2/Quartus/ctrl2.vhd|
+R13
+R14
+!s100 ;_MmH93mVoSAXO;za7z@b3
+!i10b 1
+Abehavior
+R1
+R2
+R3
+R4
+R5
+DEx4 work 5 ctrl2 0 22 `cK8Xo[oY[:Zj?3bJ`Go<3
+l19
+L16
+VUo8GQI>cBmnG<T8gO;G6j1
+R9
+32
+R24
+R25
+R26
+R13
+R14
+!s100 [cCcg_HL<zjaEDjabBi;e3
+!i10b 1
+Edatapath1
+Z27 w1414428775
+R1
+R2
+R3
+R4
+R5
+R6
+Z28 8D:/Dropbox/EEL4712/Lab5/Part2/Quartus/datapath1.vhd
+Z29 FD:/Dropbox/EEL4712/Lab5/Part2/Quartus/datapath1.vhd
+l0
+L10
+VM;;9olOU95liMVE8PF>n<3
+R9
+32
+Z30 !s108 1414447890.774000
+Z31 !s90 -reportprogress|300|-work|work|-2002|-explicit|D:/Dropbox/EEL4712/Lab5/Part2/Quartus/datapath1.vhd|
+Z32 !s107 D:/Dropbox/EEL4712/Lab5/Part2/Quartus/datapath1.vhd|
+R13
+R14
+!s100 eZ`oPh__?HNK;HhHQYF6m2
+!i10b 1
+Abehavior
+R1
+R2
+R3
+R4
+R5
+DEx4 work 9 datapath1 0 22 M;;9olOU95liMVE8PF>n<3
+l53
+L20
+V:5VRYjNdJZ1MlIz0QUX[n1
+R9
+32
+R30
+R31
+R32
+R13
+R14
+!s100 dU:1B6UXm6Z3dzWmYJ[_J0
+!i10b 1
+Edatapath2
+Z33 w1414443640
+R1
+R2
+R3
+R4
+R5
+R6
+Z34 8D:/Dropbox/EEL4712/Lab5/Part2/Quartus/datapath2.vhd
+Z35 FD:/Dropbox/EEL4712/Lab5/Part2/Quartus/datapath2.vhd
+l0
+L8
+VV?2TCzG_i1IQ3D^G60nQi3
+R9
+32
+Z36 !s108 1414447892.085000
+Z37 !s90 -reportprogress|300|-work|work|-2002|-explicit|D:/Dropbox/EEL4712/Lab5/Part2/Quartus/datapath2.vhd|
+Z38 !s107 D:/Dropbox/EEL4712/Lab5/Part2/Quartus/datapath2.vhd|
+R13
+R14
+!s100 9<XV@BAJFKE[nT`AM<bG;3
+!i10b 1
+Abehavior
+R1
+R2
+R3
+R4
+R5
+DEx4 work 9 datapath2 0 22 V?2TCzG_i1IQ3D^G60nQi3
+l51
+L18
+VD`DG?hXze`X073MOaXjW33
+R9
+32
+R36
+R37
+R38
+R13
+R14
+!s100 7N1mP]2eBOBeXSXZFTQNN3
+!i10b 1
+Egcd
+Z39 w1414447809
+R1
+R2
+R3
+R4
+R5
+R6
+Z40 8D:/Dropbox/EEL4712/Lab5/Part2/Quartus/gcd.vhd
+Z41 FD:/Dropbox/EEL4712/Lab5/Part2/Quartus/gcd.vhd
+l0
+L6
+V[`@[jMUmg9kYVk<ULDzB]0
+R9
+32
+Z42 !s108 1414447893.130000
+Z43 !s90 -reportprogress|300|-work|work|-2002|-explicit|D:/Dropbox/EEL4712/Lab5/Part2/Quartus/gcd.vhd|
+Z44 !s107 D:/Dropbox/EEL4712/Lab5/Part2/Quartus/gcd.vhd|
+R13
+R14
+!s100 oic4a<QW4S^=hf:kJ2_SF2
+!i10b 1
+Afsm_d3
+R1
+R2
+R3
+R4
+R5
+Z45 DEx4 work 3 gcd 0 22 [`@[jMUmg9kYVk<ULDzB]0
+l58
+L55
+VA4E?WeTlZ]GTaoo]>[>`^0
+R9
+32
+R42
+R43
+R44
+R13
+R14
+!s100 Y95Th:ZIM7BVG>d9^O^g_2
+!i10b 1
+Afsm_d2
+R1
+R2
+R3
+R4
+R5
+R45
+l50
+L38
+VOm1Z^=QkN1>GXYloCef;F1
+R9
+32
+R42
+R43
+R44
+R13
+R14
+!s100 J7Q^_<>Dd7Q;YKGi<MWfB3
+!i10b 1
+Afsm_d1
+R1
+R2
+R3
+R4
+R5
+R45
+l32
+L20
+VY4ORZE@bj2HJ^7eiSNlRV1
+R9
+32
+R42
+R43
+R44
+R13
+R14
+!s100 gSPTjF:fHmZ;LY7_cTNaE3
+!i10b 1
+Egcd_tb
+Z46 w1414447878
+R1
+R4
+R5
+R6
+Z47 8D:/Dropbox/EEL4712/Lab5/Part2/Quartus/gcd_tb.vhd
+Z48 FD:/Dropbox/EEL4712/Lab5/Part2/Quartus/gcd_tb.vhd
+l0
+L5
+VWHNUS6HG12EiXT<R2abTd3
+R9
+32
+Z49 !s108 1414447895.283000
+Z50 !s90 -reportprogress|300|-work|work|-2002|-explicit|D:/Dropbox/EEL4712/Lab5/Part2/Quartus/gcd_tb.vhd|
+Z51 !s107 D:/Dropbox/EEL4712/Lab5/Part2/Quartus/gcd_tb.vhd|
+R13
+R14
+!s100 7>>fD8ngA5J3b44S>BJ4c0
+!i10b 1
+Atb
+R2
+R3
+R45
+R1
+R4
+R5
+DEx4 work 6 gcd_tb 0 22 WHNUS6HG12EiXT<R2abTd3
+l22
+L8
+VM_^FmZR9k6E0O@U5BXZo02
+R9
+32
+R49
+R50
+R51
+R13
+R14
+!s100 4n96Y9f@E_C9?fmN>cTOR0
+!i10b 1
+Emux
+Z52 w1414434499
+R1
+R2
+R3
+R4
+R5
+R6
+Z53 8D:/Dropbox/EEL4712/Lab5/Part2/Quartus/mux.vhd
+Z54 FD:/Dropbox/EEL4712/Lab5/Part2/Quartus/mux.vhd
+l0
+L9
+V]Qi2Ye0Q_de3_QnYif0PS0
+R9
+32
+Z55 !s108 1414447897.576000
+Z56 !s90 -reportprogress|300|-work|work|-2002|-explicit|D:/Dropbox/EEL4712/Lab5/Part2/Quartus/mux.vhd|
+Z57 !s107 D:/Dropbox/EEL4712/Lab5/Part2/Quartus/mux.vhd|
+R13
+R14
+!s100 <;CLPdXi]LT@B=i1C30<93
+!i10b 1
+Abehavior
+R1
+R2
+R3
+R4
+R5
+DEx4 work 3 mux 0 22 ]Qi2Ye0Q_de3_QnYif0PS0
+l17
+L16
+V`P<IC5NJ`a11z4jW7XeBS2
+R9
+32
+R55
+R56
+R57
+R13
+R14
+!s100 mQhn4XNPX@jPakeELMhJ>3
+!i10b 1
+Ereg
+Z58 w1414422652
+R1
+R2
+R3
+R4
+R5
+R6
+Z59 8D:/Dropbox/EEL4712/Lab5/Part2/Quartus/reg.vhd
+Z60 FD:/Dropbox/EEL4712/Lab5/Part2/Quartus/reg.vhd
+l0
+L9
+VQI4j=@<gJ2Z3gnVWBZ7BH3
+R9
+32
+Z61 !s108 1414447898.309000
+Z62 !s90 -reportprogress|300|-work|work|-2002|-explicit|D:/Dropbox/EEL4712/Lab5/Part2/Quartus/reg.vhd|
+Z63 !s107 D:/Dropbox/EEL4712/Lab5/Part2/Quartus/reg.vhd|
+R13
+R14
+!s100 h;el[VcMocSzh2eRzdoo;3
+!i10b 1
+Abehavior
+R1
+R2
+R3
+R4
+R5
+DEx4 work 3 reg 0 22 QI4j=@<gJ2Z3gnVWBZ7BH3
+l17
+L16
+VfQ22h4g]E>8T3:08<YSEX3
+!s100 2k9FOHd4Shb_nnROL4UfI1
+R9
+32
+R61
+R62
+R63
+R13
+R14
+!i10b 1
+Esubtractor
+Z64 w1414428751
+R1
+R2
+R3
+R4
+R5
+R6
+Z65 8D:/Dropbox/EEL4712/Lab5/Part2/Quartus/subtractor.vhd
+Z66 FD:/Dropbox/EEL4712/Lab5/Part2/Quartus/subtractor.vhd
+l0
+L8
+VP3@hY1hQGL8JFoLn91Q@H1
+!s100 4g;in?aaRdMHhZHQmkSF83
+R9
+32
+!i10b 1
+Z67 !s108 1414447899.495000
+Z68 !s90 -reportprogress|300|-work|work|-2002|-explicit|D:/Dropbox/EEL4712/Lab5/Part2/Quartus/subtractor.vhd|
+Z69 !s107 D:/Dropbox/EEL4712/Lab5/Part2/Quartus/subtractor.vhd|
+R13
+R14
+Abehavior
+R1
+R2
+R3
+R4
+R5
+Z70 DEx4 work 10 subtractor 0 22 P3@hY1hQGL8JFoLn91Q@H1
+l15
+L14
+Z71 V>L?JPhWdmG1O=EXMYjG7U3
+Z72 !s100 ^Pkl>U[E<?24[8UV7[Zdh0
+R9
+32
+!i10b 1
+R67
+R68
+R69
+R13
+R14

@@ -1,0 +1,6 @@
+<?xml version="1.0" ?>
+<LOG_ROOT>
+	<PROJECT NAME="small">
+		<CBX_INST_ENTRY INSTANCE_NAME="|top_level|small:U_small|external_architecture:U_EXTERN|RAM:U_RAM|altsyncram:altsyncram_component" CBX_FILE_NAME="altsyncram_ojj1.tdf"/>
+	</PROJECT>
+</LOG_ROOT>

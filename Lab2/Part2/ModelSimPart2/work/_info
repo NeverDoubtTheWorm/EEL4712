@@ -1,0 +1,78 @@
+m255
+K3
+13
+cModel Technology
+dC:\altera\13.1
+Edecoder
+Z0 w1411381310
+Z1 DPx3 std 6 textio 0 22 5>J:;AW>W0[[dW0I6EN1Q0
+Z2 DPx4 ieee 14 std_logic_1164 0 22 5=aWaoGZSMWIcH0i^f`XF1
+Z3 dC:\Users\Sean Thomas\Documents\EEL4712\Lab2\Part2\ModelSimPart2
+Z4 8C:/Users/Sean Thomas/Documents/EEL4712/Lab2/Part2/QuartusPart2/Decoder.vhd
+Z5 FC:/Users/Sean Thomas/Documents/EEL4712/Lab2/Part2/QuartusPart2/Decoder.vhd
+l0
+L7
+V0?lC0`XUkfVci3jd2b1OE2
+Z6 OV;C;10.1d;51
+32
+Z7 !s108 1411384653.305000
+Z8 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/Sean Thomas/Documents/EEL4712/Lab2/Part2/QuartusPart2/Decoder.vhd|
+Z9 !s107 C:/Users/Sean Thomas/Documents/EEL4712/Lab2/Part2/QuartusPart2/Decoder.vhd|
+Z10 o-work work -2002 -explicit -O0
+Z11 tExplicit 1
+!s100 =O3kz=YMlQ5[YnV^:OAgW1
+!i10b 1
+Astr
+R1
+R2
+Z12 DEx4 work 7 decoder 0 22 0?lC0`XUkfVci3jd2b1OE2
+l24
+L22
+V<cWjN0Fj[O0nDoRciM3ll1
+!s100 =R8lBCMB3P[bc<<Q?o6[m2
+R6
+32
+R7
+R8
+R9
+R10
+R11
+!i10b 1
+Edecoder_tb
+Z13 w1411384642
+Z14 DPx4 ieee 11 numeric_std 0 22 O3PF8EB`?j9=z7KT`fn941
+R1
+R2
+R3
+Z15 8C:/Users/Sean Thomas/Documents/EEL4712/Lab2/Lab2vhdlFiles/decoder_tb.vhd
+Z16 FC:/Users/Sean Thomas/Documents/EEL4712/Lab2/Lab2vhdlFiles/decoder_tb.vhd
+l0
+L6
+VTebnMe0QflmEOI=b8e7`S0
+!s100 HE0<^CcAWQoPP5N9X_ZAJ3
+R6
+32
+!i10b 1
+Z17 !s108 1411384653.464000
+Z18 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/Sean Thomas/Documents/EEL4712/Lab2/Lab2vhdlFiles/decoder_tb.vhd|
+Z19 !s107 C:/Users/Sean Thomas/Documents/EEL4712/Lab2/Lab2vhdlFiles/decoder_tb.vhd|
+R10
+R11
+Abehavior
+R12
+R14
+R1
+R2
+DEx4 work 10 decoder_tb 0 22 TebnMe0QflmEOI=b8e7`S0
+l16
+L10
+VS91WPR^jIX`_BU9FeD`aC0
+!s100 9aAeA5WBZ3j7TIJfe_KGl3
+R6
+32
+!i10b 1
+R17
+R18
+R19
+R10
+R11

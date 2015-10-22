@@ -1,0 +1,56 @@
+-- Sean Thomas 
+-- Section: 1361
+library ieee;
+use ieee.std_logic_1164.all;
+use ieee.std_logic_arith.all;
+use ieee.std_logic_unsigned.all;
+use ieee.numeric_std.all;
+
+entity top_level_tb is
+end top_level_tb;
+
+architecture TB of top_level_tb is
+	component top_level
+		port (	clk		: 	IN  		STD_LOGIC;
+					ROMaddr	: 	BUFFER	STD_LOGIC_VECTOR ( 9 downto 0) := (Others=>'0');
+					input		: 	BUFFER	STD_LOGIC_VECTOR (31 downto 0);
+					output 	: 	OUT 		STD_LOGIC_VECTOR (31 downto 0));
+	end component;
+
+  signal ROMaddr	: std_logic_vector( 9 downto 0) := (others => '0');
+  signal input    : std_logic_vector(31 downto 0);
+  signal output   : std_logic_vector(31 downto 0);
+  signal	clkEn  	: std_logic := '1';
+  signal clk    	: std_logic := '0';
+
+begin  -- TB
+	UUT : top_level
+		port map (	clk         => clk,
+						ROMaddr		=> ROMaddr,
+						input       => input,
+						output      => output);
+	clk <= not clk and clkEn after 20 ns;
+	process
+		function fir (x : STD_LOGIC_VECTOR(31 downto 0))
+			return std_logic_vector is
+			variable tmpX, tmpY : integer;
+		begin
+			tmpX := (-1)**x(31) * 2**(x(30 downto 23) - 127) * (1+ x(22 downto 0));
+			tmpY     := y;
+			while (tmpX /= tmpY) loop
+				if tmpX < tmpY then
+					tmpY := tmpY-tmpX;
+				else
+					tmpX := tmpX-tmpY;
+				end if;
+			end loop;
+			return std_logic_vector(to_unsigned(tmpX, WIDTH));
+		 end fir;
+	begin
+
+
+  end process;
+
+
+
+end TB;

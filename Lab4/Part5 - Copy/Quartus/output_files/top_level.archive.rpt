@@ -1,0 +1,89 @@
+Archive Project report for top_level
+Mon Oct 13 08:12:06 2014
+Quartus II 64-Bit Version 13.1.0 Build 162 10/23/2013 SJ Web Edition
+
+
+---------------------
+; Table of Contents ;
+---------------------
+  1. Legal Notice
+  2. Archive Project Summary
+  3. Archive Project Messages
+  4. Files Archived
+
+
+
+----------------
+; Legal Notice ;
+----------------
+Copyright (C) 1991-2013 Altera Corporation
+Your use of Altera Corporation's design tools, logic functions 
+and other software and tools, and its AMPP partner logic 
+functions, and any output files from any of the foregoing 
+(including device programming or simulation files), and any 
+associated documentation or information are expressly subject 
+to the terms and conditions of the Altera Program License 
+Subscription Agreement, Altera MegaCore Function License 
+Agreement, or other applicable license agreement, including, 
+without limitation, that your use is for the sole purpose of 
+programming logic devices manufactured by Altera and sold by 
+Altera or its authorized distributors.  Please refer to the 
+applicable agreement for further details.
+
+
+
++----------------------------------------------------------------+
+; Archive Project Summary                                        ;
++------------------------+---------------------------------------+
+; Archive Project Status ; Successful - Mon Oct 13 08:12:06 2014 ;
+; Revision Name          ; top_level                             ;
+; Top-level Entity Name  ; top_level                             ;
+; Family                 ; Cyclone III                           ;
++------------------------+---------------------------------------+
+
+
++--------------------------+
+; Archive Project Messages ;
++--------------------------+
+Info: File Set 'Source control' contains:
+    Info: Project source and settings files
+    Info: Automatically detected source files
+Info: ----------------------------------------------------------
+Info: ----------------------------------------------------------
+Info: Generated archive 'C:/Users/Sean Thomas/Dropbox/EEL4712/Lab4/Part4/Quartus/output_files/top_level.qar'
+Info: ----------------------------------------------------------
+Info: ----------------------------------------------------------
+Info: Generated report 'top_level.archive.rpt'
+Info (23030): Evaluation of Tcl script c:/altera/13.1/quartus/common/tcl/apps/qpm/qar.tcl was successful
+Info: Quartus II 64-Bit Shell was successful. 0 errors, 0 warnings
+    Info: Peak virtual memory: 344 megabytes
+    Info: Processing ended: Mon Oct 13 08:12:06 2014
+    Info: Elapsed time: 00:00:01
+    Info: Total CPU time (on all processors): 00:00:01
+
+
++--------------------------------------------------------------------------+
+; Files Archived                                                           ;
++--------------------------------------------------------------------------+
+; File Name                                                                ;
++--------------------------------------------------------------------------+
+; ../../Lab4vhdlFiles/vga_lib.vhd                                          ;
+; ../../Part1/Quartus/PixelClock.vhd                                       ;
+; ../../Part2/Quartus/VGA_sync_gen.vhd                                     ;
+; block_col.vhd                                                            ;
+; block_row.vhd                                                            ;
+; c:/altera/13.1/quartus/bin64/assignment_defaults.qdf                     ;
+; C:/Users/Sean Thomas/Dropbox/EEL4712/Lab4/Lab4vhdlFiles/brom.mif         ;
+; C:/Users/Sean Thomas/Dropbox/EEL4712/Lab4/Lab4vhdlFiles/vga_lib.vhd      ;
+; C:/Users/Sean Thomas/Dropbox/EEL4712/Lab4/Part1/Quartus/PixelClock.vhd   ;
+; C:/Users/Sean Thomas/Dropbox/EEL4712/Lab4/Part2/Quartus/VGA_sync_gen.vhd ;
+; db/top_level.cmp.hdb                                                     ;
+; db/top_level.db_info                                                     ;
+; incremental_db/compiled_partitions/top_level.db_info                     ;
+; top_level.qpf                                                            ;
+; top_level.qsf                                                            ;
+; top_level.vhd                                                            ;
+; vga_rom.vhd                                                              ;
++--------------------------------------------------------------------------+
+
+

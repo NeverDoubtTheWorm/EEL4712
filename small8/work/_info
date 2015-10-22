@@ -1,0 +1,751 @@
+m255
+K3
+13
+cModel Technology
+dD:\Dropbox\EEL4712\Lab6\Part1\ModelSim
+Eadder
+Z0 w1418063839
+Z1 DPx4 ieee 11 numeric_std 0 22 O3PF8EB`?j9=z7KT`fn941
+Z2 DPx3 std 6 textio 0 22 5>J:;AW>W0[[dW0I6EN1Q0
+Z3 DPx4 ieee 14 std_logic_1164 0 22 5=aWaoGZSMWIcH0i^f`XF1
+Z4 dD:\Dropbox\EEL4712\small8
+Z5 8D:/Dropbox/EEL4712/small8/adder.vhd
+Z6 FD:/Dropbox/EEL4712/small8/adder.vhd
+l0
+L7
+Va;0QVcX<5ccaTjAk3BYZ>0
+Z7 OV;C;10.1d;51
+32
+Z8 !s108 1418076147.547000
+Z9 !s90 -reportprogress|300|-work|work|-2002|-explicit|D:/Dropbox/EEL4712/small8/adder.vhd|
+Z10 !s107 D:/Dropbox/EEL4712/small8/adder.vhd|
+Z11 o-work work -2002 -explicit -O0
+Z12 tExplicit 1
+!s100 _bM:=5SdO=FEBmEf63OPo2
+!i10b 1
+Abehaviour
+R1
+R2
+R3
+Z13 DEx4 work 5 adder 0 22 a;0QVcX<5ccaTjAk3BYZ>0
+l17
+L16
+VfON3_8?eC3ik>AGI=Uk4G1
+R7
+32
+R8
+R9
+R10
+R11
+R12
+!s100 m;D_I]Aj`cK?Bl=HeJL0b0
+!i10b 1
+Eaddr_sel
+Z14 w1418063830
+R1
+R2
+R3
+R4
+Z15 8D:/Dropbox/EEL4712/small8/addr_sel.vhd
+Z16 FD:/Dropbox/EEL4712/small8/addr_sel.vhd
+l0
+L7
+V^6AFgB;JVJ_k7JXbSJfNi3
+R7
+32
+Z17 !s108 1418076148.389000
+Z18 !s90 -reportprogress|300|-work|work|-2002|-explicit|D:/Dropbox/EEL4712/small8/addr_sel.vhd|
+Z19 !s107 D:/Dropbox/EEL4712/small8/addr_sel.vhd|
+R11
+R12
+!s100 KTARM;@Mg>7]L`Oon1U4C3
+!i10b 1
+Abehaviour
+R1
+R2
+R3
+Z20 DEx4 work 8 addr_sel 0 22 ^6AFgB;JVJ_k7JXbSJfNi3
+l18
+L17
+VlYigV]fIYRX0[V4HJUoi30
+R7
+32
+R17
+R18
+R19
+R11
+R12
+!s100 l;<JYXPTMk^<H5f4>KIlN0
+!i10b 1
+Ealu
+Z21 w1418063815
+R1
+R2
+R3
+R4
+Z22 8D:/Dropbox/EEL4712/small8/alu.vhd
+Z23 FD:/Dropbox/EEL4712/small8/alu.vhd
+l0
+L7
+V9:FgU2OD<9AZRPF00D<f[1
+R7
+32
+Z24 !s108 1418076149.731000
+Z25 !s90 -reportprogress|300|-work|work|-2002|-explicit|D:/Dropbox/EEL4712/small8/alu.vhd|
+Z26 !s107 D:/Dropbox/EEL4712/small8/alu.vhd|
+R11
+R12
+!s100 f9DTTT3L;T_07DafgE>8;3
+!i10b 1
+Abehaviour
+R1
+R2
+R3
+Z27 DEx4 work 3 alu 0 22 9:FgU2OD<9AZRPF00D<f[1
+l24
+L23
+VXaTc6?Mgf<hPAWU<2TH0h1
+R7
+32
+R24
+R25
+R26
+R11
+R12
+!s100 ARAn@RP<H:K=?j]MFHiak2
+!i10b 1
+Ebuss
+Z28 w1418063800
+R2
+R3
+R4
+Z29 8D:/Dropbox/EEL4712/small8/buss.vhd
+Z30 FD:/Dropbox/EEL4712/small8/buss.vhd
+l0
+L6
+Vk]6Q@3X:31;fKC1AZWGAK1
+R7
+32
+Z31 !s108 1418076150.776000
+Z32 !s90 -reportprogress|300|-work|work|-2002|-explicit|D:/Dropbox/EEL4712/small8/buss.vhd|
+Z33 !s107 D:/Dropbox/EEL4712/small8/buss.vhd|
+R11
+R12
+!s100 DG930Z9]5K7DE;<f6o6ic3
+!i10b 1
+Abehaviour
+R2
+R3
+Z34 DEx4 work 4 buss 0 22 k]6Q@3X:31;fKC1AZWGAK1
+l27
+L26
+VgEcJ=hjXeQge2Gg9`0K0_3
+R7
+32
+R31
+R32
+R33
+R11
+R12
+!s100 ?9RL9Udbha[_giZQL=<Fl3
+!i10b 1
+Econtroller
+Z35 w1418063782
+Z36 DPx4 work 3 lib 0 22 U1C04jzZ>O:0VD:?faClg0
+R1
+R2
+R3
+R4
+Z37 8D:/Dropbox/EEL4712/small8/controller.vhd
+Z38 FD:/Dropbox/EEL4712/small8/controller.vhd
+l0
+L8
+VIoim?=QI[2<WZ2EIO;ja`0
+R7
+32
+Z39 !s108 1418076151.884000
+Z40 !s90 -reportprogress|300|-work|work|-2002|-explicit|D:/Dropbox/EEL4712/small8/controller.vhd|
+Z41 !s107 D:/Dropbox/EEL4712/small8/controller.vhd|
+R11
+R12
+!s100 0E`dl^NLUDhEHHQkk<<Zk0
+!i10b 1
+Abehaviour
+R36
+R1
+R2
+R3
+Z42 DEx4 work 10 controller 0 22 Ioim?=QI[2<WZ2EIO;ja`0
+l32
+L29
+VQCldOaDQMDkXS6f?:NNjk2
+R7
+32
+R39
+R40
+R41
+R11
+R12
+!s100 =?F2`EYiBDRmMA<D=laiM2
+!i10b 1
+Ecpu
+Z43 w1418063756
+R1
+R2
+R3
+R4
+Z44 8D:/Dropbox/EEL4712/small8/cpu.vhd
+Z45 FD:/Dropbox/EEL4712/small8/cpu.vhd
+l0
+L7
+VJT>:nIY>=d5bm;SnnF]VY0
+R7
+32
+Z46 !s108 1418076152.711000
+Z47 !s90 -reportprogress|300|-work|work|-2002|-explicit|D:/Dropbox/EEL4712/small8/cpu.vhd|
+Z48 !s107 D:/Dropbox/EEL4712/small8/cpu.vhd|
+R11
+R12
+!s100 O2U<fNR4L23PifR=eY^YG0
+!i10b 1
+Abehaviour
+R34
+R36
+R42
+Z49 DEx4 work 3 reg 0 22 5]>;V5lAK:2@c96mWHNQU1
+Z50 DEx4 work 21 internal_architecture 0 22 G<CXKN`<P3>kZGSceZbFM0
+R1
+R2
+R3
+Z51 DEx4 work 3 cpu 0 22 JT>:nIY>=d5bm;SnnF]VY0
+l36
+L25
+VT61mD_K?W8[nmahBe;LUc3
+R7
+32
+R46
+R47
+R48
+R11
+R12
+!s100 zQU<Gh:1^[]=_GIBA8V^z2
+!i10b 1
+Edecoder
+Z52 w1418063695
+R36
+R1
+R2
+R3
+R4
+Z53 8D:/Dropbox/EEL4712/small8/decoder.vhd
+Z54 FD:/Dropbox/EEL4712/small8/decoder.vhd
+l0
+L8
+VmE^WFBbT:0aB0WCPC0QRN1
+R7
+32
+Z55 !s108 1418076154.442000
+Z56 !s90 -reportprogress|300|-work|work|-2002|-explicit|D:/Dropbox/EEL4712/small8/decoder.vhd|
+Z57 !s107 D:/Dropbox/EEL4712/small8/decoder.vhd|
+R11
+R12
+!s100 fX_MQjUHeJGbO>WO[;n841
+!i10b 1
+Abehaviour
+R36
+R1
+R2
+R3
+Z58 DEx4 work 7 decoder 0 22 mE^WFBbT:0aB0WCPC0QRN1
+l27
+L26
+V]bm9N7@MGFOWS5:FKVV[=0
+R7
+32
+R55
+R56
+R57
+R11
+R12
+!s100 z`bG7YNGnf9CkoT_U:>gT3
+!i10b 1
+Edecoder7seg
+Z59 w1418073419
+R2
+R3
+R4
+Z60 8D:/Dropbox/EEL4712/small8/decoder7seg.vhd
+Z61 FD:/Dropbox/EEL4712/small8/decoder7seg.vhd
+l0
+L6
+Vo<jgCN2WYbdkkNGnPQ=iO3
+R7
+32
+Z62 !s108 1418076155.721000
+Z63 !s90 -reportprogress|300|-work|work|-2002|-explicit|D:/Dropbox/EEL4712/small8/decoder7seg.vhd|
+Z64 !s107 D:/Dropbox/EEL4712/small8/decoder7seg.vhd|
+R11
+R12
+!s100 ?N3GPGKzDS@f_J<UFnghF1
+!i10b 1
+Abehaviour
+R2
+R3
+Z65 DEx4 work 11 decoder7seg 0 22 o<jgCN2WYbdkkNGnPQ=iO3
+l14
+L12
+VijD56PXgC5[ZS1:<Se5ZC3
+R7
+32
+R62
+R63
+R64
+R11
+R12
+!s100 OD3jo?m;o<_UJfZbDIfG52
+!i10b 1
+Edeliverable3_tb
+Z66 w1418063891
+R36
+Z67 DPx4 ieee 18 std_logic_unsigned 0 22 RYmj;=TK`k=k>D@Cz`zoB3
+Z68 DPx4 ieee 15 std_logic_arith 0 22 4`Y?g_lkdn;7UL9IiJck01
+R2
+R3
+R4
+Z69 8D:/Dropbox/EEL4712/small8/deliverable3_tb.vhd
+Z70 FD:/Dropbox/EEL4712/small8/deliverable3_tb.vhd
+l0
+L9
+VFDVU4JPYAj^7jl2ZJRONB3
+R7
+32
+Z71 !s108 1418076156.626000
+Z72 !s90 -reportprogress|300|-work|work|-2002|-explicit|D:/Dropbox/EEL4712/small8/deliverable3_tb.vhd|
+Z73 !s107 D:/Dropbox/EEL4712/small8/deliverable3_tb.vhd|
+R11
+R12
+!s100 X17flTSa;DQfgfG=G_3>E1
+!i10b 1
+Atb
+R36
+R67
+R68
+R2
+R3
+DEx4 work 15 deliverable3_tb 0 22 FDVU4JPYAj^7jl2ZJRONB3
+l29
+L12
+VbB_^z^eP087X1L7XDVm3X3
+R7
+32
+R71
+R72
+R73
+R11
+R12
+!s100 EAke[:1cn]l[znQRiO^GY1
+!i10b 1
+Eexternal_architecture
+Z74 w1418063923
+R1
+R2
+R3
+R4
+Z75 8D:/Dropbox/EEL4712/small8/external_architecture.vhd
+Z76 FD:/Dropbox/EEL4712/small8/external_architecture.vhd
+l0
+L7
+VkD;8ga3MEL:OG9Gcd`Q0@1
+R7
+32
+Z77 !s108 1418076157.671000
+Z78 !s90 -reportprogress|300|-work|work|-2002|-explicit|D:/Dropbox/EEL4712/small8/external_architecture.vhd|
+Z79 !s107 D:/Dropbox/EEL4712/small8/external_architecture.vhd|
+R11
+R12
+!s100 g9R@SO`>@]5Gbn:_Ij[fP2
+!i10b 1
+Abehaviour
+R36
+R58
+R20
+Z80 DPx9 altera_mf 20 altera_mf_components 0 22 zh;bE09gCIPDVLK?MN49L3
+Z81 DEx4 work 3 ram 0 22 ^g453Z]DZ;HilkYf5NJG02
+Z82 DEx4 work 7 io_port 0 22 e??6CdRAR?l^>QUF?Y]Kd0
+R1
+R2
+R3
+Z83 DEx4 work 21 external_architecture 0 22 kD;8ga3MEL:OG9Gcd`Q0@1
+l32
+L29
+V74fnS?<::d>]b<=DS2RAk1
+R7
+32
+R77
+R78
+R79
+R11
+R12
+!s100 K0831MjBUK8a>OTETel>:2
+!i10b 1
+Einternal_architecture
+Z84 w1418064003
+R1
+R2
+R3
+R4
+Z85 8D:/Dropbox/EEL4712/small8/internal_architecture.vhd
+Z86 FD:/Dropbox/EEL4712/small8/internal_architecture.vhd
+l0
+L7
+VG<CXKN`<P3>kZGSceZbFM0
+R7
+32
+Z87 !s108 1418076158.717000
+Z88 !s90 -reportprogress|300|-work|work|-2002|-explicit|D:/Dropbox/EEL4712/small8/internal_architecture.vhd|
+Z89 !s107 D:/Dropbox/EEL4712/small8/internal_architecture.vhd|
+R11
+R12
+!s100 Z=LX;Kg`0nOzGLUd>cAPK1
+!i10b 1
+Abehaviour
+R34
+R13
+R49
+R27
+Z90 DEx4 work 10 status_reg 0 22 0FLg^W=cj`^ffS03alHO`3
+R1
+R2
+R3
+R50
+l32
+L26
+V8VDA<:50Uajbhn8HTn=hd2
+R7
+32
+R87
+R88
+R89
+R11
+R12
+!s100 [6negfnPeaALU]]8FM9h<3
+!i10b 1
+Eio_port
+Z91 w1418064042
+R1
+R2
+R3
+R4
+Z92 8D:/Dropbox/EEL4712/small8/IO_port.vhd
+Z93 FD:/Dropbox/EEL4712/small8/IO_port.vhd
+l0
+L7
+Ve??6CdRAR?l^>QUF?Y]Kd0
+R7
+32
+Z94 !s108 1418076159.840000
+Z95 !s90 -reportprogress|300|-work|work|-2002|-explicit|D:/Dropbox/EEL4712/small8/IO_port.vhd|
+Z96 !s107 D:/Dropbox/EEL4712/small8/IO_port.vhd|
+R11
+R12
+!s100 zn=M;1mSc>CiO1FiNnAT83
+!i10b 1
+Abehaviour
+R49
+R1
+R2
+R3
+R82
+l27
+L26
+VN1e7?nNOMj:nbgMn7EG5S0
+R7
+32
+R94
+R95
+R96
+R11
+R12
+!s100 >IY3GY7BQo3bY2Q?NP<gD3
+!i10b 1
+Plib
+R2
+R3
+w1418064195
+R4
+8D:/Dropbox/EEL4712/small8/lib.vhd
+FD:/Dropbox/EEL4712/small8/lib.vhd
+l0
+L6
+VU1C04jzZ>O:0VD:?faClg0
+R7
+32
+R11
+R12
+!s100 QQ29k<Fj]H<F<elihjOd23
+!i10b 1
+!s108 1418076160.823000
+!s90 -reportprogress|300|-work|work|-2002|-explicit|D:/Dropbox/EEL4712/small8/lib.vhd|
+!s107 D:/Dropbox/EEL4712/small8/lib.vhd|
+Eram
+Z97 w1418079090
+R80
+R2
+R3
+R4
+Z98 8D:\Dropbox\EEL4712\small8\RAM.vhd
+Z99 FD:\Dropbox\EEL4712\small8\RAM.vhd
+l0
+L42
+V^g453Z]DZ;HilkYf5NJG02
+!s100 bcgKc0i>0c8eOeBgRQ5mH2
+R7
+32
+!i10b 1
+Z100 !s108 1418081567.265000
+Z101 !s90 -reportprogress|300|-work|work|-2002|-explicit|D:\Dropbox\EEL4712\small8\RAM.vhd|
+Z102 !s107 D:\Dropbox\EEL4712\small8\RAM.vhd|
+R11
+R12
+Asyn
+R80
+R2
+R3
+R81
+l58
+L54
+Vk`KPl8d]C<W6CoP>Ok5L@3
+!s100 MMIh3e8]PYFP5VV1R@5UL1
+R7
+32
+!i10b 1
+R100
+R101
+R102
+R11
+R12
+Ereg
+Z103 w1418064067
+R1
+R2
+R3
+R4
+Z104 8D:/Dropbox/EEL4712/small8/reg.vhd
+Z105 FD:/Dropbox/EEL4712/small8/reg.vhd
+l0
+L7
+V5]>;V5lAK:2@c96mWHNQU1
+R7
+32
+Z106 !s108 1418076162.679000
+Z107 !s90 -reportprogress|300|-work|work|-2002|-explicit|D:/Dropbox/EEL4712/small8/reg.vhd|
+Z108 !s107 D:/Dropbox/EEL4712/small8/reg.vhd|
+R11
+R12
+!s100 Y[=HYhYLAXdcfHWneI6SQ1
+!i10b 1
+Abehaviour
+R1
+R2
+R3
+R49
+l22
+L21
+VdK4^VYY7Q>FgBgNJ3T_Ig2
+R7
+32
+R106
+R107
+R108
+R11
+R12
+!s100 8VZhBfzLnZNoXO@_SN:DE2
+!i10b 1
+Esmall
+Z109 w1418064088
+R1
+R2
+R3
+R4
+Z110 8D:/Dropbox/EEL4712/small8/small.vhd
+Z111 FD:/Dropbox/EEL4712/small8/small.vhd
+l0
+L7
+Vh_;i>KdnCljz5MZ70<M1X2
+R7
+32
+Z112 !s108 1418076163.745000
+Z113 !s90 -reportprogress|300|-work|work|-2002|-explicit|D:/Dropbox/EEL4712/small8/small.vhd|
+Z114 !s107 D:/Dropbox/EEL4712/small8/small.vhd|
+R11
+R12
+!s100 aV1@UL@dkVl>5B[lk:]@;2
+!i10b 1
+Abehaviour
+R83
+R51
+R1
+R2
+R3
+Z115 DEx4 work 5 small 0 22 h_;i>KdnCljz5MZ70<M1X2
+l24
+L19
+V_KXDH3kaTj=TR@>A9@7A[0
+R7
+32
+R112
+R113
+R114
+R11
+R12
+!s100 =MEG_Z4n2M0LI`biE]XH03
+!i10b 1
+Estatus_decode
+Z116 w1418064104
+R1
+R2
+R3
+R4
+Z117 8D:/Dropbox/EEL4712/small8/status_decode.vhd
+Z118 FD:/Dropbox/EEL4712/small8/status_decode.vhd
+l0
+L5
+VZ0bKPC<LHj2_L;a5JS_G@0
+R7
+32
+Z119 !s108 1418076165.057000
+Z120 !s90 -reportprogress|300|-work|work|-2002|-explicit|D:/Dropbox/EEL4712/small8/status_decode.vhd|
+Z121 !s107 D:/Dropbox/EEL4712/small8/status_decode.vhd|
+R11
+R12
+!s100 QD[bl4Nln;X6>SbZo?^4n0
+!i10b 1
+Abehaviour
+R1
+R2
+R3
+DEx4 work 13 status_decode 0 22 Z0bKPC<LHj2_L;a5JS_G@0
+l13
+L12
+VPWW2eiO2YT[`Z9AFji_bN2
+R7
+32
+R119
+R120
+R121
+R11
+R12
+!s100 ;[ZY[`Yd=zKRac094QCAj2
+!i10b 1
+Estatus_reg
+Z122 w1418064139
+R1
+R2
+R3
+R4
+Z123 8D:/Dropbox/EEL4712/small8/status_reg.vhd
+Z124 FD:/Dropbox/EEL4712/small8/status_reg.vhd
+l0
+L7
+V0FLg^W=cj`^ffS03alHO`3
+R7
+32
+Z125 !s108 1418076166.305000
+Z126 !s90 -reportprogress|300|-work|work|-2002|-explicit|D:/Dropbox/EEL4712/small8/status_reg.vhd|
+Z127 !s107 D:/Dropbox/EEL4712/small8/status_reg.vhd|
+R11
+R12
+!s100 FbGIYBM53Q<g[lDEC4T3d1
+!i10b 1
+Abehaviour
+R1
+R2
+R3
+R90
+l28
+L17
+VnS58ZcJmH:0UCV=kzEaiC1
+R7
+32
+R125
+R126
+R127
+R11
+R12
+!s100 [;3a61ID92c8OeG`9V2CY1
+!i10b 1
+Estatus_sel
+Z128 w1418064153
+R1
+R2
+R3
+R4
+Z129 8D:/Dropbox/EEL4712/small8/status_sel.vhd
+Z130 FD:/Dropbox/EEL4712/small8/status_sel.vhd
+l0
+L7
+Vn1zKc7d`;[2PkkaG;h9Mk0
+R7
+32
+Z131 !s108 1418076168.884000
+Z132 !s90 -reportprogress|300|-work|work|-2002|-explicit|D:/Dropbox/EEL4712/small8/status_sel.vhd|
+Z133 !s107 D:/Dropbox/EEL4712/small8/status_sel.vhd|
+R11
+R12
+!s100 P`N;e5<TWJKaCTL7LV8903
+!i10b 1
+Abehaviour
+R1
+R2
+R3
+DEx4 work 10 status_sel 0 22 n1zKc7d`;[2PkkaG;h9Mk0
+l18
+L17
+VF95lGL5dgcf9zj`4JlG;A1
+R7
+32
+R131
+R132
+R133
+R11
+R12
+!s100 :FUbhO2jlo=>G[[Zi22;K2
+!i10b 1
+Etop_level
+Z134 w1418076141
+R2
+R3
+R4
+Z135 8D:/Dropbox/EEL4712/small8/top_level.vhd
+Z136 FD:/Dropbox/EEL4712/small8/top_level.vhd
+l0
+L6
+V06@7S19aiP2SAIK96HCH?2
+R7
+32
+Z137 !s108 1418076169.118000
+Z138 !s90 -reportprogress|300|-work|work|-2002|-explicit|D:/Dropbox/EEL4712/small8/top_level.vhd|
+Z139 !s107 D:/Dropbox/EEL4712/small8/top_level.vhd|
+R11
+R12
+!s100 z:Ze[<W0_THoN`RORJ^a20
+!i10b 1
+Abehaviour
+R1
+R115
+R65
+R2
+R3
+DEx4 work 9 top_level 0 22 06@7S19aiP2SAIK96HCH?2
+l22
+L19
+V^`?07D9dmQ?:?ozn6OZn12
+R7
+32
+R137
+R138
+R139
+R11
+R12
+!s100 E`z=`U_AB3YRMCm<Nh7KK2
+!i10b 1

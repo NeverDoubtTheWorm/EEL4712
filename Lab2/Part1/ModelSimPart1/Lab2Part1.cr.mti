@@ -1,0 +1,20 @@
+{C:/Users/Sean Thomas/Documents/EEL4712/Lab2/QuartusPart1/mux421.vhd} {1 {vcom -work work -2002 -explicit {C:/Users/Sean Thomas/Documents/EEL4712/Lab2/QuartusPart1/mux421.vhd}
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity mux421
+-- Compiling architecture STR of mux421
+
+} {} {}} {C:/Users/Sean Thomas/Documents/EEL4712/Lab2/Lab2vhdlFiles/mux4to1WithAssert_tb.vhd} {2 {vcom -work work -2002 -explicit {C:/Users/Sean Thomas/Documents/EEL4712/Lab2/Lab2vhdlFiles/mux4to1WithAssert_tb.vhd}
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity mux4to1WithAssert_tb
+-- Compiling architecture behavior of mux4to1WithAssert_tb
+-- Loading entity mux421
+** Warning: [4] C:/Users/Sean Thomas/Documents/EEL4712/Lab2/Lab2vhdlFiles/mux4to1WithAssert_tb.vhd(78): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+
+} {} {}}

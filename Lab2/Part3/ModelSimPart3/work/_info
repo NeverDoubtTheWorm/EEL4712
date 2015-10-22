@@ -1,0 +1,148 @@
+m255
+K3
+13
+cModel Technology
+dC:\altera\13.1
+Eadder
+Z0 w1410835753
+Z1 DPx3 std 6 textio 0 22 5>J:;AW>W0[[dW0I6EN1Q0
+Z2 DPx4 ieee 14 std_logic_1164 0 22 5=aWaoGZSMWIcH0i^f`XF1
+Z3 dC:\Users\Sean Thomas\Documents\EEL4712\Lab2\Part3\ModelSimPart3
+Z4 8C:/Users/Sean Thomas/Documents/EEL4712/Lab2/Part3/QuartusPart3/adder.vhd
+Z5 FC:/Users/Sean Thomas/Documents/EEL4712/Lab2/Part3/QuartusPart3/adder.vhd
+l0
+L6
+VATfH3zRh:c8:ceR8MAGh12
+Z6 OV;C;10.1d;51
+32
+Z7 !s108 1411386282.111000
+Z8 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/Sean Thomas/Documents/EEL4712/Lab2/Part3/QuartusPart3/adder.vhd|
+Z9 !s107 C:/Users/Sean Thomas/Documents/EEL4712/Lab2/Part3/QuartusPart3/adder.vhd|
+Z10 o-work work -2002 -explicit -O0
+Z11 tExplicit 1
+!s100 EhTe_i=iSdh3V;Z^U]EmN2
+!i10b 1
+Astr
+R1
+R2
+DEx4 work 5 adder 0 22 ATfH3zRh:c8:ceR8MAGh12
+l25
+L18
+Vgo?MHm4Yg6C:XJ<0nGU5e0
+R6
+32
+R7
+R8
+R9
+R10
+R11
+!s100 1MPkz<[mF18WimC7XoGa32
+!i10b 1
+Eadder8
+Z12 w1411385834
+R1
+R2
+R3
+Z13 8C:/Users/Sean Thomas/Documents/EEL4712/Lab2/Part3/QuartusPart3/adder8.vhd
+Z14 FC:/Users/Sean Thomas/Documents/EEL4712/Lab2/Part3/QuartusPart3/adder8.vhd
+l0
+L7
+Vfn`XC_aRzz>Hl5Vl5];4P3
+R6
+32
+Z15 !s108 1411386282.241000
+Z16 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/Sean Thomas/Documents/EEL4712/Lab2/Part3/QuartusPart3/adder8.vhd|
+Z17 !s107 C:/Users/Sean Thomas/Documents/EEL4712/Lab2/Part3/QuartusPart3/adder8.vhd|
+R10
+R11
+!s100 n^3VS?e3c>e]`b0f:Y8f92
+!i10b 1
+Astr
+R1
+R2
+Z18 DEx4 work 6 adder8 0 22 fn`XC_aRzz>Hl5Vl5];4P3
+l28
+L19
+V@aOS0Fc2WhJDdm>3HjO<a3
+R6
+32
+R15
+R16
+R17
+R10
+R11
+!s100 G]Lf8V?R]NKdF:XEPL5jb2
+!i10b 1
+Eadder_tb
+Z19 w1411386268
+Z20 DPx4 ieee 11 numeric_std 0 22 O3PF8EB`?j9=z7KT`fn941
+R1
+R2
+R3
+Z21 8C:/Users/Sean Thomas/Documents/EEL4712/Lab2/Lab2vhdlFiles/adder_tb.vhd
+Z22 FC:/Users/Sean Thomas/Documents/EEL4712/Lab2/Lab2vhdlFiles/adder_tb.vhd
+l0
+L8
+VEOWd>WI0`U0Z^gP]G=:Ko3
+!s100 2o4eLOQ8B6CM:i<QIGB@]2
+R6
+32
+!i10b 1
+Z23 !s108 1411386282.516000
+Z24 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/Sean Thomas/Documents/EEL4712/Lab2/Lab2vhdlFiles/adder_tb.vhd|
+Z25 !s107 C:/Users/Sean Thomas/Documents/EEL4712/Lab2/Lab2vhdlFiles/adder_tb.vhd|
+R10
+R11
+Atb
+R18
+R20
+R1
+R2
+DEx4 work 8 adder_tb 0 22 EOWd>WI0`U0Z^gP]G=:Ko3
+l16
+L11
+Vm[X3zVf=[1;VFcWzCHbQ83
+!s100 <O<>@3Na2fc_`TM9g3zjB0
+R6
+32
+!i10b 1
+R23
+R24
+R25
+R10
+R11
+Efa
+Z26 w1410833922
+R1
+R2
+R3
+Z27 8C:/Users/Sean Thomas/Documents/EEL4712/Lab2/Part3/QuartusPart3/fa.vhd
+Z28 FC:/Users/Sean Thomas/Documents/EEL4712/Lab2/Part3/QuartusPart3/fa.vhd
+l0
+L6
+VgD?`DeY9eeRPoCZbN7j4S3
+R6
+32
+Z29 !s108 1411386282.384000
+Z30 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/Sean Thomas/Documents/EEL4712/Lab2/Part3/QuartusPart3/fa.vhd|
+Z31 !s107 C:/Users/Sean Thomas/Documents/EEL4712/Lab2/Part3/QuartusPart3/fa.vhd|
+R10
+R11
+!s100 4@bSWGVZOB2kPmQh^1>cT1
+!i10b 1
+Abhv
+R1
+R2
+DEx4 work 2 fa 0 22 gD?`DeY9eeRPoCZbN7j4S3
+l18
+L17
+V>Z5NFmmT21f2`OUJSBai>3
+!s100 6ITeeAbm?>TiFF=I@3?:h0
+R6
+32
+R29
+R30
+R31
+R10
+R11
+!i10b 1

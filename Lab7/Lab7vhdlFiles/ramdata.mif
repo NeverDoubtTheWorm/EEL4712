@@ -1,0 +1,29 @@
+
+
+Depth = 256;
+Width = 8;
+Address_radix = hex;
+Data_radix = hex;
+
+Content
+  Begin
+
+0 : 90;
+1 : 91;
+2 : 92;
+3 : 93;
+4 : 94;
+5 : 95;
+6 : 96;
+7 : 97;
+8 : 98;
+9 : 99;
+A : 9A;
+B : 9B;
+C : 9C;
+D : 9D;
+E : 9E;
+F : 9F;
+[10..FF]: AA;
+
+End;

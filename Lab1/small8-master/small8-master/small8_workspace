@@ -1,0 +1,32 @@
+<NotepadPlus>
+    <Project name="small8">
+        <Folder name="src">
+            <File name="adder.vhd" />
+            <File name="alu.vhd" />
+            <File name="alu_tb.vhd" />
+            <File name="buss.vhd" />
+            <File name="controller.vhd" />
+            <File name="cpu.vhd" />
+            <File name="cpu_tb.vhd" />
+            <File name="datapath_tb.vhd" />
+            <File name="deliverable3_tb.vhd" />
+            <File name="external_architecture.vhd" />
+            <File name="internal_architecture.vhd" />
+            <File name="IO_port.vhd" />
+            <File name="lib.vhd" />
+            <File name="RAM.vhd" />
+            <File name="reg.vhd" />
+            <File name="small.vhd" />
+            <File name="status_reg.vhd" />
+        </Folder>
+        <Folder name="mif">
+            <File name="TestCase1.asm" />
+            <File name="TestCase1.mif" />
+            <File name="TestCase2.asm" />
+            <File name="TestCase2.mif" />
+            <File name="TestCase3.asm" />
+            <File name="mult.asm" />
+            <File name="mult.mif" />
+        </Folder>
+    </Project>
+</NotepadPlus>

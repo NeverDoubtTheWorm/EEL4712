@@ -1,0 +1,96 @@
+m255
+K3
+13
+cModel Technology
+dD:\altera\13.1
+Ecounter
+Z0 w1410816113
+Z1 DPx10 cycloneiii 20 cycloneiii_atom_pack 0 22 ]RlG5R]Q[aFAe9T5<XI<o1
+Z2 DPx10 cycloneiii 21 cycloneiii_components 0 22 czVkNK5?8i<HPTLVSV_3a2
+Z3 DPx4 ieee 16 vital_primitives 0 22 9W@YP9_VCb?_GCJ8e:;YQ0
+Z4 DPx6 altera 11 dffeas_pack 0 22 oY7WPe2I:Taj0>HV`A`AH0
+Z5 DPx4 ieee 12 vital_timing 0 22 7h8zz2S4HVg:a;2TBMI[j1
+Z6 DPx3 std 6 textio 0 22 5>J:;AW>W0[[dW0I6EN1Q0
+Z7 DPx4 ieee 14 std_logic_1164 0 22 5=aWaoGZSMWIcH0i^f`XF1
+Z8 DPx6 altera 28 altera_primitives_components 0 22 H[E=U;zSVlD;ca@gnkzIO0
+Z9 dD:\EEL4712\Lab1\ModelSim
+Z10 8D:/EEL4712/Lab1/Quartus/simulation/modelsim/counter.vho
+Z11 FD:/EEL4712/Lab1/Quartus/simulation/modelsim/counter.vho
+l0
+L36
+V1aXJ]OCKIKd8ZzldM]U_U3
+!s100 o_ATWbYR`6kgGS8JEThJe0
+Z12 OV;C;10.1d;51
+32
+!i10b 1
+Z13 !s108 1410816828.803000
+Z14 !s90 -reportprogress|300|-work|work|-2002|-explicit|D:/EEL4712/Lab1/Quartus/simulation/modelsim/counter.vho|
+Z15 !s107 D:/EEL4712/Lab1/Quartus/simulation/modelsim/counter.vho|
+Z16 o-work work -2002 -explicit -O0
+Z17 tExplicit 1
+Astructure
+R1
+R2
+R3
+R4
+R5
+R6
+R7
+R8
+Z18 DEx4 work 7 counter 0 22 1aXJ]OCKIKd8ZzldM]U_U3
+l168
+L86
+Z19 V_M8Pg0RQ3U:D;Ac<47AR@3
+Z20 !s100 `c=RDdo12UADhIeNUVJZ32
+R12
+32
+!i10b 1
+R13
+R14
+R15
+R16
+R17
+Ecounter_tb
+Z21 w1410800173
+Z22 DPx4 ieee 11 numeric_std 0 22 O3PF8EB`?j9=z7KT`fn941
+R6
+R7
+R9
+Z23 8D:/EEL4712/Lab1/Lab1vhdlFiles/counter_tb.vhd
+Z24 FD:/EEL4712/Lab1/Lab1vhdlFiles/counter_tb.vhd
+l0
+L8
+VKTnlPh;ckWSi7^EJ@H=o01
+R12
+32
+Z25 !s108 1410816828.048000
+Z26 !s90 -reportprogress|300|-work|work|-2002|-explicit|D:/EEL4712/Lab1/Lab1vhdlFiles/counter_tb.vhd|
+Z27 !s107 D:/EEL4712/Lab1/Lab1vhdlFiles/counter_tb.vhd|
+R16
+R17
+!s100 d6W9B8bMoQWgJ0Y0aaF4h1
+!i10b 1
+Atb
+R1
+R2
+R3
+R4
+R5
+R8
+R18
+R22
+R6
+R7
+DEx4 work 10 counter_tb 0 22 KTnlPh;ckWSi7^EJ@H=o01
+l41
+L11
+V>KJCIEF]]RFH7O`NTkBmg3
+R12
+32
+R25
+R26
+R27
+R16
+R17
+!s100 HoSSO:kR2FoWcg;GEJnmn3
+!i10b 1

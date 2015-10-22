@@ -1,0 +1,23 @@
+-- Sean Thomas 
+-- Section: 1361
+library ieee; 
+use ieee.std_logic_1164.all;
+use ieee.std_logic_unsigned.all;
+use ieee.numeric_std.all;
+
+entity comparator is
+	generic (
+		WIDTH 			: positive := 16);
+	port (
+		x, y				: in  std_logic_vector(WIDTH-1 Downto 0);
+		x_lt_y, x_ne_y	: out	std_logic);
+end comparator;
+
+ARCHITECTURE behavior OF comparator IS
+BEGIN
+	process(sel,load, result)
+	BEGIN
+		x_lt_y <= x < y;
+		x_ne_y <= x = y;
+	END process;
+END behavior;

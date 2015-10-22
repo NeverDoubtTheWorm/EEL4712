@@ -1,0 +1,81 @@
+m255
+K3
+13
+cModel Technology
+dC:\altera\13.1
+Ealu_ns
+Z0 w1411981646
+Z1 DPx4 ieee 11 numeric_std 0 22 O3PF8EB`?j9=z7KT`fn941
+Z2 DPx3 std 6 textio 0 22 5>J:;AW>W0[[dW0I6EN1Q0
+Z3 DPx4 ieee 14 std_logic_1164 0 22 5=aWaoGZSMWIcH0i^f`XF1
+Z4 dC:\Users\Sean Thomas\Dropbox\EEL4712\Lab3\Part2\ModelSim
+Z5 8C:/Users/Sean Thomas/Dropbox/EEL4712/Lab3/Part2/Quartus/alu_ns.vhd
+Z6 FC:/Users/Sean Thomas/Dropbox/EEL4712/Lab3/Part2/Quartus/alu_ns.vhd
+l0
+L7
+V0WgB5Cj_@7;n:RSmb6VzB0
+Z7 OV;C;10.1d;51
+32
+Z8 !s108 1411984475.072000
+Z9 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/Sean Thomas/Dropbox/EEL4712/Lab3/Part2/Quartus/alu_ns.vhd|
+Z10 !s107 C:/Users/Sean Thomas/Dropbox/EEL4712/Lab3/Part2/Quartus/alu_ns.vhd|
+Z11 o-work work -2002 -explicit -O0
+Z12 tExplicit 1
+!s100 J8KUi[2Lh>;0AgfR>=UDX1
+!i10b 1
+Abehavior
+R1
+R2
+R3
+DEx4 work 6 alu_ns 0 22 0WgB5Cj_@7;n:RSmb6VzB0
+l29
+L22
+Vof=MB81>MH9aVLG:bH9MZ1
+!s100 D@d0ki0;_8R:]6ZM`D?M52
+R7
+32
+R8
+R9
+R10
+R11
+R12
+!i10b 1
+Ealu_ns_tb
+Z13 w1411984470
+Z14 DPx4 ieee 18 std_logic_unsigned 0 22 RYmj;=TK`k=k>D@Cz`zoB3
+Z15 DPx4 ieee 15 std_logic_arith 0 22 4`Y?g_lkdn;7UL9IiJck01
+R2
+R3
+R4
+Z16 8C:/Users/Sean Thomas/Dropbox/EEL4712/Lab3/Part2/Quartus/alu_ns_tb.vhd
+Z17 FC:/Users/Sean Thomas/Dropbox/EEL4712/Lab3/Part2/Quartus/alu_ns_tb.vhd
+l0
+L6
+V4oKFj^:S[BAMBcYOCbPdX0
+!s100 50m0PQI`[mWC6I0D=o8BE0
+R7
+32
+!i10b 1
+Z18 !s108 1411984475.357000
+Z19 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/Sean Thomas/Dropbox/EEL4712/Lab3/Part2/Quartus/alu_ns_tb.vhd|
+Z20 !s107 C:/Users/Sean Thomas/Dropbox/EEL4712/Lab3/Part2/Quartus/alu_ns_tb.vhd|
+R11
+R12
+Atb
+R14
+R15
+R2
+R3
+Z21 DEx4 work 9 alu_ns_tb 0 22 4oKFj^:S[BAMBcYOCbPdX0
+l33
+L9
+V[><KQl[:MoiVFOB;5TKhf1
+!s100 9>f]Q@II7VH5;4b4mFX3e0
+R7
+32
+!i10b 1
+R18
+R19
+R20
+R11
+R12

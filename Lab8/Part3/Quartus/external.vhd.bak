@@ -1,0 +1,68 @@
+library ieee; 
+use ieee.std_logic_1164.all; 
+use ieee.numeric_std.all; 
+
+entity external is
+	generic ( WIDTH : positive := 8); 
+	port (
+		clk			: in std_logic;
+		rst         : in std_logic;
+		load			: in std_logic;
+		data_bus_in	: in std_logic_vector(width-1 downto 0);
+		dip			: in std_logic_vector(width-1 downto 0);
+		dip2			: in std_logic_vector(width-1 downto 0);
+		ram_wren		: in std_logic;
+		addrsel		: in std_logic;
+		address		: in std_logic_vector(width*2-1 downto 0);
+		x				: in std_logic_vector(width*2-1 downto 0);
+		bus_sel		: out std_logic_vector(3 downto 0);
+		output_led	: out std_logic_vector(width-1 downto 0);
+		output_led2	: out std_logic_vector(width-1 downto 0);
+		ram_out		: out std_logic_vector(width-1 downto 0);
+		IO_out		: out std_logic_vector(width-1 downto 0);
+		IO_out2		: out std_logic_vector(width-1 downto 0)
+	);
+end external;
+
+architecture STR of external is
+	signal output_en, output_en2, IO_en, IO_en2, ram_en : std_logic;
+	signal address_to_ram : std_logic_vector(width*2-1 downto 0);
+begin
+	U_IOPORT : entity work.IO_port port map(
+		clk				=> clk,
+		rst				=> rst,
+		dip				=> dip,
+		dip2			=> dip2,
+		input_enable	=> IO_en,
+		input_enable2	=> IO_en2,
+		output_enable	=> output_en,
+		output_enable2	=> output_en2,
+		data_bus_in		=> data_bus_in,
+		output_led		=> output_led,
+		output_led2		=> output_led2,
+		data_out		=> IO_out,
+		data_out2		=> IO_out2
+	);
+	
+	U_RAM : entity work.RAM port map(
+		clock	=> clk,
+		address	=> address_to_ram(9 downto 0),
+		data	=> data_bus_in,
+		wren	=> ram_en,
+		q		=> ram_out
+	);
+	
+	addrSel : entity work.addr_sel port map(address,x,addrsel,address_to_ram);
+	
+	Dec : entity work.decoder port map(
+		address 	=> x,
+		load 		=> load,
+		ram_wren 	=> ram_wren,
+		output_en 	=> output_en,
+		output_en2	=> output_en2,
+		IO_en		=> IO_en,
+		IO_en2		=> IO_en2,
+		bus_sel 	=> bus_sel,
+		ram_en		=> ram_en
+	);
+end STR;

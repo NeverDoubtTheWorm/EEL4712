@@ -1,0 +1,17 @@
+|mux421
+S_L[0] => Equal0.IN0
+S_L[0] => Equal1.IN1
+S_L[0] => Equal2.IN1
+S_L[1] => Equal0.IN1
+S_L[1] => Equal1.IN0
+S_L[1] => Equal2.IN0
+D0 => Y.DATAB
+D1 => Y.DATAB
+D2 => Y.DATAB
+D3 => Y.DATAB
+En => Y.IN1
+En => Y.IN1
+En => Y.IN1
+Y_L <= Y.DB_MAX_OUTPUT_PORT_TYPE
+
+

@@ -1,0 +1,39 @@
+D:/EEL4712/Lab1/Lab1vhdlFiles/adder_tb.vhd {1 {vcom -work work -2002 -explicit D:/EEL4712/Lab1/Lab1vhdlFiles/adder_tb.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity adder_tb
+-- Compiling architecture TB of adder_tb
+-- Loading package VITAL_Timing
+-- Loading package VITAL_Primitives
+-- Loading package cycloneiii_atom_pack
+-- Loading package cycloneiii_components
+-- Loading entity adder
+
+} {} {}} D:/EEL4712/Lab1/QuartusPart2/simulation/modelsim/adder.vho {1 {vcom -work work -2002 -explicit D:/EEL4712/Lab1/QuartusPart2/simulation/modelsim/adder.vho
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package VITAL_Timing
+-- Loading package VITAL_Primitives
+-- Loading package cycloneiii_atom_pack
+-- Loading package cycloneiii_components
+-- Compiling entity adder
+-- Compiling architecture structure of adder
+
+} {} {}} D:/EEL4712/Lab1/QuartusPart2/simulation/modelsim/fa.vho {1 {vcom -work work -2002 -explicit D:/EEL4712/Lab1/QuartusPart2/simulation/modelsim/fa.vho
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package VITAL_Timing
+-- Loading package VITAL_Primitives
+-- Loading package cycloneiii_atom_pack
+-- Loading package cycloneiii_components
+-- Compiling entity fa
+-- Compiling architecture structure of fa
+
+} {} {}}

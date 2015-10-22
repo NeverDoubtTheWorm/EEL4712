@@ -1,0 +1,78 @@
+m255
+K3
+13
+cModel Technology
+dC:\altera\13.1
+Emux421
+Z0 w1411379362
+Z1 DPx3 std 6 textio 0 22 5>J:;AW>W0[[dW0I6EN1Q0
+Z2 DPx4 ieee 14 std_logic_1164 0 22 5=aWaoGZSMWIcH0i^f`XF1
+Z3 dC:\Users\Sean Thomas\Documents\EEL4712\Lab2\ModelSimPart1
+Z4 8C:/Users/Sean Thomas/Documents/EEL4712/Lab2/QuartusPart1/mux421.vhd
+Z5 FC:/Users/Sean Thomas/Documents/EEL4712/Lab2/QuartusPart1/mux421.vhd
+l0
+L7
+VPW3NgFz:ECEE<ZgnS`2dD0
+Z6 OV;C;10.1d;51
+32
+Z7 !s108 1411379573.945000
+Z8 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/Sean Thomas/Documents/EEL4712/Lab2/QuartusPart1/mux421.vhd|
+Z9 !s107 C:/Users/Sean Thomas/Documents/EEL4712/Lab2/QuartusPart1/mux421.vhd|
+Z10 o-work work -2002 -explicit -O0
+Z11 tExplicit 1
+!s100 kFz`[?D_<1]5m`GFP_72k0
+!i10b 1
+Astr
+R1
+R2
+Z12 DEx4 work 6 mux421 0 22 PW3NgFz:ECEE<ZgnS`2dD0
+l21
+L18
+V<3f6MDg6^TW5;lfYZObh81
+!s100 khn2hOzPJVXg9hR^4;amE2
+R6
+32
+R7
+R8
+R9
+R10
+R11
+!i10b 1
+Emux4to1withassert_tb
+Z13 w1411379555
+Z14 DPx4 ieee 11 numeric_std 0 22 O3PF8EB`?j9=z7KT`fn941
+R1
+R2
+R3
+Z15 8C:/Users/Sean Thomas/Documents/EEL4712/Lab2/Lab2vhdlFiles/mux4to1WithAssert_tb.vhd
+Z16 FC:/Users/Sean Thomas/Documents/EEL4712/Lab2/Lab2vhdlFiles/mux4to1WithAssert_tb.vhd
+l0
+L6
+VIIFT`d6UdS[_CMfnWZZ5U1
+!s100 5aJYoaPKz_TBeZH?YF0hz1
+R6
+32
+!i10b 1
+Z17 !s108 1411379574.494000
+Z18 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/Sean Thomas/Documents/EEL4712/Lab2/Lab2vhdlFiles/mux4to1WithAssert_tb.vhd|
+Z19 !s107 C:/Users/Sean Thomas/Documents/EEL4712/Lab2/Lab2vhdlFiles/mux4to1WithAssert_tb.vhd|
+R10
+R11
+Abehavior
+R12
+R14
+R1
+R2
+Z20 DEx4 work 20 mux4to1withassert_tb 0 22 IIFT`d6UdS[_CMfnWZZ5U1
+l15
+L10
+Z21 V:]M@2;PGLLbBJGk7PFN@i2
+Z22 !s100 ZVKM;89CK=hGa975o5<7J2
+R6
+32
+!i10b 1
+R17
+R18
+R19
+R10
+R11

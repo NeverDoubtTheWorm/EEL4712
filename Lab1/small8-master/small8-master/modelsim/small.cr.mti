@@ -1,0 +1,171 @@
+E:/git/small8/deliverable3_tb.vhd {1 {vcom -work work -2002 -explicit E:/git/small8/deliverable3_tb.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Loading package lib
+-- Compiling entity deliverable3_tb
+-- Compiling architecture TB of deliverable3_tb
+
+} {} {}} E:/git/small8/lib.vhd {1 {vcom -work work -2002 -explicit E:/git/small8/lib.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling package lib
+
+} {} {}} E:/git/small8/small.vhd {1 {vcom -work work -2002 -explicit E:/git/small8/small.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity small
+-- Compiling architecture STR of small
+-- Loading entity cpu
+-- Loading entity external_architecture
+
+} {} {}} E:/git/small8/status_reg.vhd {1 {vcom -work work -2002 -explicit E:/git/small8/status_reg.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity status_reg
+-- Compiling architecture STR of status_reg
+
+} {} {}} E:/git/small8/alu.vhd {1 {vcom -work work -2002 -explicit E:/git/small8/alu.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity alu
+-- Compiling architecture BHV of alu
+
+} {} {}} E:/git/small8/IO_port.vhd {1 {vcom -work work -2002 -explicit E:/git/small8/IO_port.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity IO_port
+-- Compiling architecture STR of IO_port
+-- Loading entity reg
+
+} {} {}} E:/git/small8/reg.vhd {1 {vcom -work work -2002 -explicit E:/git/small8/reg.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity reg
+-- Compiling architecture BHV of reg
+
+} {} {}} E:/git/small8/internal_architecture.vhd {1 {vcom -work work -2002 -explicit E:/git/small8/internal_architecture.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity internal_architecture
+-- Compiling architecture STR of internal_architecture
+-- Loading entity status_reg
+-- Loading entity alu
+-- Loading entity reg
+-- Loading entity adder
+-- Loading entity buss
+
+} {} {}} E:/git/small8/status_sel.vhd {1 {vcom -work work -2002 -explicit E:/git/small8/status_sel.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity status_sel
+-- Compiling architecture BHV of status_sel
+
+} {} {}} E:/git/small8/status_decode.vhd {1 {vcom -work work -2002 -explicit E:/git/small8/status_decode.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity status_decode
+-- Compiling architecture STR of status_decode
+
+} {} {}} E:/git/small8/cpu.vhd {1 {vcom -work work -2002 -explicit E:/git/small8/cpu.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity cpu
+-- Compiling architecture STR of cpu
+-- Loading entity internal_architecture
+-- Loading entity reg
+-- Loading package lib
+-- Loading entity controller
+-- Loading entity buss
+
+} {} {}} E:/git/small8/adder.vhd {1 {vcom -work work -2002 -explicit E:/git/small8/adder.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity adder
+-- Compiling architecture BHV of adder
+
+} {} {}} E:/git/small8/RAM.vhd {1 {vcom -work work -2002 -explicit E:/git/small8/RAM.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity RAM
+-- Compiling architecture SYN of ram
+
+} {} {}} E:/git/small8/external_architecture.vhd {1 {vcom -work work -2002 -explicit E:/git/small8/external_architecture.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity external_architecture
+-- Compiling architecture STR of external_architecture
+-- Loading entity IO_port
+-- Loading entity RAM
+-- Loading entity addr_sel
+-- Loading package lib
+-- Loading entity decoder
+
+} {} {}} E:/git/small8/buss.vhd {1 {vcom -work work -2002 -explicit E:/git/small8/buss.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity buss
+-- Compiling architecture BHV of buss
+
+} {} {}} E:/git/small8/addr_sel.vhd {1 {vcom -work work -2002 -explicit E:/git/small8/addr_sel.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity addr_sel
+-- Compiling architecture BHV of addr_sel
+
+} {} {}} E:/git/small8/decoder.vhd {1 {vcom -work work -2002 -explicit E:/git/small8/decoder.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package lib
+-- Compiling entity decoder
+-- Compiling architecture BHV of decoder
+
+} {} {}}

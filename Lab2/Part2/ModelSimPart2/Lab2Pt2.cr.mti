@@ -1,0 +1,20 @@
+{C:/Users/Sean Thomas/Documents/EEL4712/Lab2/Part2/QuartusPart2/Decoder.vhd} {1 {vcom -work work -2002 -explicit {C:/Users/Sean Thomas/Documents/EEL4712/Lab2/Part2/QuartusPart2/Decoder.vhd}
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity Decoder
+-- Compiling architecture STR of Decoder
+
+} {} {}} {C:/Users/Sean Thomas/Documents/EEL4712/Lab2/Lab2vhdlFiles/decoder_tb.vhd} {2 {vcom -work work -2002 -explicit {C:/Users/Sean Thomas/Documents/EEL4712/Lab2/Lab2vhdlFiles/decoder_tb.vhd}
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity decoder_tb
+-- Compiling architecture behavior of decoder_tb
+-- Loading entity Decoder
+** Warning: [4] C:/Users/Sean Thomas/Documents/EEL4712/Lab2/Lab2vhdlFiles/decoder_tb.vhd(100): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+
+} {} {}}

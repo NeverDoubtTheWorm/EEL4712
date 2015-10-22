@@ -1,0 +1,47 @@
+|VGA_sync_gen
+clk => vc[0].CLK
+clk => vc[1].CLK
+clk => vc[2].CLK
+clk => vc[3].CLK
+clk => vc[4].CLK
+clk => vc[5].CLK
+clk => vc[6].CLK
+clk => vc[7].CLK
+clk => vc[8].CLK
+clk => vc[9].CLK
+clk => venable.CLK
+clk => hc[0].CLK
+clk => hc[1].CLK
+clk => hc[2].CLK
+clk => hc[3].CLK
+clk => hc[4].CLK
+clk => hc[5].CLK
+clk => hc[6].CLK
+clk => hc[7].CLK
+clk => hc[8].CLK
+clk => hc[9].CLK
+Video_On <= Video_On.DB_MAX_OUTPUT_PORT_TYPE
+Horiz_Sync <= Horiz_Sync.DB_MAX_OUTPUT_PORT_TYPE
+Vert_Sync <= Vert_Sync.DB_MAX_OUTPUT_PORT_TYPE
+Hcount[0] <= hc[0].DB_MAX_OUTPUT_PORT_TYPE
+Hcount[1] <= hc[1].DB_MAX_OUTPUT_PORT_TYPE
+Hcount[2] <= hc[2].DB_MAX_OUTPUT_PORT_TYPE
+Hcount[3] <= hc[3].DB_MAX_OUTPUT_PORT_TYPE
+Hcount[4] <= hc[4].DB_MAX_OUTPUT_PORT_TYPE
+Hcount[5] <= hc[5].DB_MAX_OUTPUT_PORT_TYPE
+Hcount[6] <= hc[6].DB_MAX_OUTPUT_PORT_TYPE
+Hcount[7] <= hc[7].DB_MAX_OUTPUT_PORT_TYPE
+Hcount[8] <= hc[8].DB_MAX_OUTPUT_PORT_TYPE
+Hcount[9] <= hc[9].DB_MAX_OUTPUT_PORT_TYPE
+Vcount[0] <= vc[0].DB_MAX_OUTPUT_PORT_TYPE
+Vcount[1] <= vc[1].DB_MAX_OUTPUT_PORT_TYPE
+Vcount[2] <= vc[2].DB_MAX_OUTPUT_PORT_TYPE
+Vcount[3] <= vc[3].DB_MAX_OUTPUT_PORT_TYPE
+Vcount[4] <= vc[4].DB_MAX_OUTPUT_PORT_TYPE
+Vcount[5] <= vc[5].DB_MAX_OUTPUT_PORT_TYPE
+Vcount[6] <= vc[6].DB_MAX_OUTPUT_PORT_TYPE
+Vcount[7] <= vc[7].DB_MAX_OUTPUT_PORT_TYPE
+Vcount[8] <= vc[8].DB_MAX_OUTPUT_PORT_TYPE
+Vcount[9] <= vc[9].DB_MAX_OUTPUT_PORT_TYPE
+
+

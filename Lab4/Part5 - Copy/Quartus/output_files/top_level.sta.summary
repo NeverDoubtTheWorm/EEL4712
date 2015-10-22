@@ -1,0 +1,113 @@
+------------------------------------------------------------
+TimeQuest Timing Analyzer Summary
+------------------------------------------------------------
+
+Type  : Slow 1200mV 85C Model Setup 'VGA_sync_gen:VGA_sync|vc[0]'
+Slack : -5.156
+TNS   : -515.882
+
+Type  : Slow 1200mV 85C Model Setup 'PixelClock:PCLK|clk25'
+Slack : -3.544
+TNS   : -111.821
+
+Type  : Slow 1200mV 85C Model Setup 'clk50'
+Slack : 0.028
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'PixelClock:PCLK|clk25'
+Slack : -0.667
+TNS   : -3.604
+
+Type  : Slow 1200mV 85C Model Hold 'clk50'
+Slack : 0.022
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'VGA_sync_gen:VGA_sync|vc[0]'
+Slack : 0.347
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'clk50'
+Slack : -3.000
+TNS   : -4.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'PixelClock:PCLK|clk25'
+Slack : -2.174
+TNS   : -74.176
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'VGA_sync_gen:VGA_sync|vc[0]'
+Slack : -1.000
+TNS   : -117.000
+
+Type  : Slow 1200mV 0C Model Setup 'VGA_sync_gen:VGA_sync|vc[0]'
+Slack : -4.472
+TNS   : -447.342
+
+Type  : Slow 1200mV 0C Model Setup 'PixelClock:PCLK|clk25'
+Slack : -3.115
+TNS   : -96.125
+
+Type  : Slow 1200mV 0C Model Setup 'clk50'
+Slack : 0.135
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'PixelClock:PCLK|clk25'
+Slack : -0.646
+TNS   : -3.491
+
+Type  : Slow 1200mV 0C Model Hold 'clk50'
+Slack : -0.042
+TNS   : -0.042
+
+Type  : Slow 1200mV 0C Model Hold 'VGA_sync_gen:VGA_sync|vc[0]'
+Slack : 0.307
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'clk50'
+Slack : -3.000
+TNS   : -4.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'PixelClock:PCLK|clk25'
+Slack : -2.174
+TNS   : -74.176
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'VGA_sync_gen:VGA_sync|vc[0]'
+Slack : -1.000
+TNS   : -117.000
+
+Type  : Fast 1200mV 0C Model Setup 'VGA_sync_gen:VGA_sync|vc[0]'
+Slack : -2.503
+TNS   : -241.044
+
+Type  : Fast 1200mV 0C Model Setup 'PixelClock:PCLK|clk25'
+Slack : -1.779
+TNS   : -48.219
+
+Type  : Fast 1200mV 0C Model Setup 'clk50'
+Slack : 0.274
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'PixelClock:PCLK|clk25'
+Slack : -0.377
+TNS   : -3.435
+
+Type  : Fast 1200mV 0C Model Hold 'clk50'
+Slack : -0.036
+TNS   : -0.036
+
+Type  : Fast 1200mV 0C Model Hold 'VGA_sync_gen:VGA_sync|vc[0]'
+Slack : 0.187
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'clk50'
+Slack : -3.000
+TNS   : -4.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'VGA_sync_gen:VGA_sync|vc[0]'
+Slack : -1.000
+TNS   : -117.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'PixelClock:PCLK|clk25'
+Slack : -1.000
+TNS   : -46.000
+
+------------------------------------------------------------

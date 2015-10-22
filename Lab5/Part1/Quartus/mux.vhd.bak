@@ -1,0 +1,27 @@
+-- Sean Thomas 
+-- Section: 1361
+library ieee; 
+use ieee.std_logic_1164.all;
+use ieee.std_logic_unsigned.all;
+use ieee.numeric_std.all;
+
+entity mux is
+	generic (
+		WIDTH 			: positive := 16);
+	port (
+		select			: in  std_logic;
+		load, result	: in  std_logic_vector(N-1 Downto 0);
+		output			: in  std_logic_vector(N-1 Downto 0));
+end mux;
+
+ARCHITECTURE behavior OF mux IS
+BEGIN
+	process(select,load, result)
+	BEGIN
+		IF select = '0' then
+			output <= load;
+		ELSE
+			output <= result;
+		END IF;
+	END process
+END behavior;

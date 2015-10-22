@@ -1,0 +1,106 @@
+m255
+K3
+13
+cModel Technology
+dD:\altera\13.1
+Pvga_lib
+Z0 DPx3 std 6 textio 0 22 5>J:;AW>W0[[dW0I6EN1Q0
+Z1 DPx4 ieee 14 std_logic_1164 0 22 5=aWaoGZSMWIcH0i^f`XF1
+w1413166306
+Z2 dD:\Dropbox\EEL4712\Lab4\Part2\ModelSim
+8D:/Dropbox/EEL4712/Lab4/Lab4vhdlFiles/vga_lib.vhd
+FD:/Dropbox/EEL4712/Lab4/Lab4vhdlFiles/vga_lib.vhd
+l0
+L7
+V326H6NDW`QL;hRPozSf<90
+!s100 cz?C0D7`NZX5OkVWfl:Y=0
+Z3 OV;C;10.1d;51
+32
+!i10b 1
+!s108 1413219883.893000
+!s90 -reportprogress|300|-work|work|-2002|-explicit|D:/Dropbox/EEL4712/Lab4/Lab4vhdlFiles/vga_lib.vhd|
+!s107 D:/Dropbox/EEL4712/Lab4/Lab4vhdlFiles/vga_lib.vhd|
+Z4 o-work work -2002 -explicit -O0
+Z5 tExplicit 1
+Evga_sync_gen
+Z6 w1413189707
+Z7 DPx4 work 7 vga_lib 0 22 326H6NDW`QL;hRPozSf<90
+Z8 DPx4 ieee 11 numeric_std 0 22 O3PF8EB`?j9=z7KT`fn941
+Z9 DPx4 ieee 15 std_logic_arith 0 22 4`Y?g_lkdn;7UL9IiJck01
+Z10 DPx4 ieee 18 std_logic_unsigned 0 22 RYmj;=TK`k=k>D@Cz`zoB3
+Z11 DPx3 std 6 textio 0 22 5>J:;AW>W0[[dW0I6EN1Q0
+R1
+R2
+Z12 8D:/Dropbox/EEL4712/Lab4/Part2/Quartus/VGA_sync_gen.vhd
+Z13 FD:/Dropbox/EEL4712/Lab4/Part2/Quartus/VGA_sync_gen.vhd
+l0
+L9
+VVg>NlCcQlVM@UD;6jf[Jl2
+R3
+32
+Z14 !s108 1413219882.135000
+Z15 !s90 -reportprogress|300|-work|work|-2002|-explicit|D:/Dropbox/EEL4712/Lab4/Part2/Quartus/VGA_sync_gen.vhd|
+Z16 !s107 D:/Dropbox/EEL4712/Lab4/Part2/Quartus/VGA_sync_gen.vhd|
+R4
+R5
+!s100 NIazMVSj58>[heeMhz`Wa1
+!i10b 1
+Abehavioral
+R7
+R8
+R9
+R10
+R11
+R1
+DEx4 work 12 vga_sync_gen 0 22 Vg>NlCcQlVM@UD;6jf[Jl2
+l19
+L16
+VKdNznXXM_IMJNkm^QDGN;3
+R3
+32
+R14
+R15
+R16
+R4
+R5
+!s100 UjMR7h`0:hiSocdZI5NZb0
+!i10b 1
+Evga_tb
+Z17 w1413219876
+R7
+R8
+R11
+R1
+R2
+Z18 8D:/Dropbox/EEL4712/Lab4/Part2/Quartus/vga_tb.vhd
+Z19 FD:/Dropbox/EEL4712/Lab4/Part2/Quartus/vga_tb.vhd
+l0
+L6
+VC0fU5GYe<DFM65hdTCDEe0
+R3
+32
+Z20 !s108 1413219882.883000
+Z21 !s90 -reportprogress|300|-work|work|-2002|-explicit|D:/Dropbox/EEL4712/Lab4/Part2/Quartus/vga_tb.vhd|
+Z22 !s107 D:/Dropbox/EEL4712/Lab4/Part2/Quartus/vga_tb.vhd|
+R4
+R5
+!s100 FG<k7F5dn_zhh6ZY@6mS30
+!i10b 1
+Atb
+R7
+R8
+R11
+R1
+DEx4 work 6 vga_tb 0 22 C0fU5GYe<DFM65hdTCDEe0
+l24
+L9
+VbNl<dODM6DPKUZ=4VRVZC2
+R3
+32
+R20
+R21
+R22
+R4
+R5
+!s100 P`5ZZoz25M@DK>9aSh@@W0
+!i10b 1

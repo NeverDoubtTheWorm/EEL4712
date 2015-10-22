@@ -1,0 +1,747 @@
+m255
+K3
+13
+cModel Technology
+dE:\altera\ModelSim
+Eadder
+Z0 w1397530178
+Z1 DPx4 ieee 11 numeric_std 0 22 O3PF8EB`?j9=z7KT`fn941
+Z2 DPx3 std 6 textio 0 22 5>J:;AW>W0[[dW0I6EN1Q0
+Z3 DPx4 ieee 14 std_logic_1164 0 22 5=aWaoGZSMWIcH0i^f`XF1
+Z4 dE:\git\small8\modelsim
+Z5 8E:/git/small8/adder.vhd
+Z6 FE:/git/small8/adder.vhd
+l0
+L5
+Va;0QVcX<5ccaTjAk3BYZ>0
+Z7 OV;C;10.1d;51
+32
+Z8 !s108 1398039882.963000
+Z9 !s90 -reportprogress|300|-work|work|-2002|-explicit|E:/git/small8/adder.vhd|
+Z10 !s107 E:/git/small8/adder.vhd|
+Z11 o-work work -2002 -explicit -O0
+Z12 tExplicit 1
+!s100 0MUU>;Xae7lf4km7n<ATh1
+!i10b 1
+Abhv
+R1
+R2
+R3
+Z13 DEx4 work 5 adder 0 22 a;0QVcX<5ccaTjAk3BYZ>0
+l15
+L14
+V?0Uj??AZJ[SKmhTRSjLWJ3
+R7
+32
+R8
+R9
+R10
+R11
+R12
+!s100 aY8L>oP>X1@lh=5G8TCM=2
+!i10b 1
+Eaddr_sel
+Z14 w1397927214
+R1
+R2
+R3
+R4
+Z15 8E:/git/small8/addr_sel.vhd
+Z16 FE:/git/small8/addr_sel.vhd
+l0
+L5
+V^6AFgB;JVJ_k7JXbSJfNi3
+R7
+32
+Z17 !s108 1398039883.146000
+Z18 !s90 -reportprogress|300|-work|work|-2002|-explicit|E:/git/small8/addr_sel.vhd|
+Z19 !s107 E:/git/small8/addr_sel.vhd|
+R11
+R12
+!s100 k2aP:zZil?jENIlW2Fijj2
+!i10b 1
+Abhv
+R1
+R2
+R3
+Z20 DEx4 work 8 addr_sel 0 22 ^6AFgB;JVJ_k7JXbSJfNi3
+l16
+L15
+V<f;J1OzI9MDDc>[GgB79S3
+R7
+32
+R17
+R18
+R19
+R11
+R12
+!s100 @naU6oDf]iSIFde]Ne9MH0
+!i10b 1
+Ealu
+Z21 w1398039055
+R1
+R2
+R3
+R4
+Z22 8E:/git/small8/alu.vhd
+Z23 FE:/git/small8/alu.vhd
+l0
+L5
+V9:FgU2OD<9AZRPF00D<f[1
+R7
+32
+Z24 !s108 1398039883.319000
+Z25 !s90 -reportprogress|300|-work|work|-2002|-explicit|E:/git/small8/alu.vhd|
+Z26 !s107 E:/git/small8/alu.vhd|
+R11
+R12
+!s100 Oh3Ei65J2ajE;D9eB:jAR1
+!i10b 1
+Abhv
+R1
+R2
+R3
+Z27 DEx4 work 3 alu 0 22 9:FgU2OD<9AZRPF00D<f[1
+l22
+L21
+VU?c7AcEIKH@NMbzJ0LV<;0
+R7
+32
+R24
+R25
+R26
+R11
+R12
+!s100 3;a81GV534d5:2o5>z3Vn1
+!i10b 1
+Ebuss
+Z28 w1397080162
+R2
+R3
+R4
+Z29 8E:/git/small8/buss.vhd
+Z30 FE:/git/small8/buss.vhd
+l0
+L4
+Vk]6Q@3X:31;fKC1AZWGAK1
+R7
+32
+Z31 !s108 1398039883.468000
+Z32 !s90 -reportprogress|300|-work|work|-2002|-explicit|E:/git/small8/buss.vhd|
+Z33 !s107 E:/git/small8/buss.vhd|
+R11
+R12
+!s100 V^X^K0a0ekJ=^b[EF5i[<0
+!i10b 1
+Abhv
+R2
+R3
+Z34 DEx4 work 4 buss 0 22 k]6Q@3X:31;fKC1AZWGAK1
+l25
+L24
+V:lUR]L1W0N3gZ>R>789Ch2
+R7
+32
+R31
+R32
+R33
+R11
+R12
+!s100 Yo?bNzO:d2X4U35X8^=[Y0
+!i10b 1
+Econtroller
+Z35 w1398039849
+Z36 DPx4 work 3 lib 0 22 U1C04jzZ>O:0VD:?faClg0
+R1
+R2
+R3
+R4
+Z37 8E:/git/small8/controller.vhd
+Z38 FE:/git/small8/controller.vhd
+l0
+L6
+VIoim?=QI[2<WZ2EIO;ja`0
+R7
+32
+Z39 !s108 1398039883.630000
+Z40 !s90 -reportprogress|300|-work|work|-2002|-explicit|E:/git/small8/controller.vhd|
+Z41 !s107 E:/git/small8/controller.vhd|
+R11
+R12
+!s100 =i5;W3^VJeIzZczA<f_<40
+!i10b 1
+Abhv
+R36
+R1
+R2
+R3
+Z42 DEx4 work 10 controller 0 22 Ioim?=QI[2<WZ2EIO;ja`0
+l30
+L27
+VY`Uj8[@CBCHo@LTIo_R>31
+R7
+32
+R39
+R40
+R41
+R11
+R12
+!s100 6Q;7E>nm>T@=h=zYXafae0
+!i10b 1
+Ecpu
+Z43 w1398031423
+R1
+R2
+R3
+R4
+Z44 8E:/git/small8/cpu.vhd
+Z45 FE:/git/small8/cpu.vhd
+l0
+L5
+VJT>:nIY>=d5bm;SnnF]VY0
+R7
+32
+Z46 !s108 1398039883.822000
+Z47 !s90 -reportprogress|300|-work|work|-2002|-explicit|E:/git/small8/cpu.vhd|
+Z48 !s107 E:/git/small8/cpu.vhd|
+R11
+R12
+!s100 nZ_:MQPI@Uzlmho8fVR7d0
+!i10b 1
+Astr
+R34
+R36
+R42
+Z49 DEx4 work 3 reg 0 22 5]>;V5lAK:2@c96mWHNQU1
+Z50 DEx4 work 21 internal_architecture 0 22 G<CXKN`<P3>kZGSceZbFM0
+R1
+R2
+R3
+Z51 DEx4 work 3 cpu 0 22 JT>:nIY>=d5bm;SnnF]VY0
+l34
+L23
+VVb5[zV21<R9cnaZ1Z=<b:2
+R7
+32
+R46
+R47
+R48
+R11
+R12
+!s100 8e[7TTlaD;Yl;3E09C0c50
+!i10b 1
+Edecoder
+Z52 w1397929258
+R36
+R1
+R2
+R3
+R4
+Z53 8E:/git/small8/decoder.vhd
+Z54 FE:/git/small8/decoder.vhd
+l0
+L6
+VmE^WFBbT:0aB0WCPC0QRN1
+R7
+32
+Z55 !s108 1398039883.982000
+Z56 !s90 -reportprogress|300|-work|work|-2002|-explicit|E:/git/small8/decoder.vhd|
+Z57 !s107 E:/git/small8/decoder.vhd|
+R11
+R12
+!s100 aMW;Gn7=T;?X:KcDTkS_[1
+!i10b 1
+Abhv
+R36
+R1
+R2
+R3
+Z58 DEx4 work 7 decoder 0 22 mE^WFBbT:0aB0WCPC0QRN1
+l25
+L24
+VFObkzb:;SFnOH=LboXmkl2
+R7
+32
+R55
+R56
+R57
+R11
+R12
+!s100 ^?HU_^AL`gU4mQOE]EgJA0
+!i10b 1
+Edeliverable3_tb
+Z59 w1398035045
+R36
+Z60 DPx4 ieee 18 std_logic_unsigned 0 22 RYmj;=TK`k=k>D@Cz`zoB3
+Z61 DPx4 ieee 15 std_logic_arith 0 22 4`Y?g_lkdn;7UL9IiJck01
+R2
+R3
+R4
+Z62 8E:/git/small8/deliverable3_tb.vhd
+Z63 FE:/git/small8/deliverable3_tb.vhd
+l0
+L7
+VFDVU4JPYAj^7jl2ZJRONB3
+R7
+32
+Z64 !s108 1398039884.139000
+Z65 !s90 -reportprogress|300|-work|work|-2002|-explicit|E:/git/small8/deliverable3_tb.vhd|
+Z66 !s107 E:/git/small8/deliverable3_tb.vhd|
+R11
+R12
+!s100 l@h0YNhDkGeb`8oW5H9gG1
+!i10b 1
+Atb
+R36
+R60
+R61
+R2
+R3
+DEx4 work 15 deliverable3_tb 0 22 FDVU4JPYAj^7jl2ZJRONB3
+l27
+L10
+VbB_^z^eP087X1L7XDVm3X3
+R7
+32
+R64
+R65
+R66
+R11
+R12
+!s100 fX@h?jKfCVdd@X^^9E;Y?1
+!i10b 1
+Eexternal_architecture
+Z67 w1398031366
+R1
+R2
+R3
+R4
+Z68 8E:/git/small8/external_architecture.vhd
+Z69 FE:/git/small8/external_architecture.vhd
+l0
+L5
+VkD;8ga3MEL:OG9Gcd`Q0@1
+R7
+32
+Z70 !s108 1398039884.305000
+Z71 !s90 -reportprogress|300|-work|work|-2002|-explicit|E:/git/small8/external_architecture.vhd|
+Z72 !s107 E:/git/small8/external_architecture.vhd|
+R11
+R12
+!s100 KMiO_BSz2l?K=RZ]a58[G2
+!i10b 1
+Astr
+R36
+R58
+R20
+Z73 DEx4 work 3 ram 0 22 SGfYMO5ABWgRW4SNN27LW0
+Z74 DEx4 work 7 io_port 0 22 e??6CdRAR?l^>QUF?Y]Kd0
+R1
+R2
+R3
+Z75 DEx4 work 21 external_architecture 0 22 kD;8ga3MEL:OG9Gcd`Q0@1
+l30
+L27
+VL]UFZE5TQ@eOlKM]0LZoY0
+R7
+32
+R70
+R71
+R72
+R11
+R12
+!s100 fD>`0nA9`zmOH[QD4<S<K0
+!i10b 1
+Einternal_architecture
+Z76 w1398031490
+R1
+R2
+R3
+R4
+Z77 8E:/git/small8/internal_architecture.vhd
+Z78 FE:/git/small8/internal_architecture.vhd
+l0
+L5
+VG<CXKN`<P3>kZGSceZbFM0
+R7
+32
+Z79 !s108 1398039884.751000
+Z80 !s90 -reportprogress|300|-work|work|-2002|-explicit|E:/git/small8/internal_architecture.vhd|
+Z81 !s107 E:/git/small8/internal_architecture.vhd|
+R11
+R12
+!s100 V^hc7EJ?:]DVHam5nNDOi1
+!i10b 1
+Astr
+R34
+R13
+R49
+R27
+Z82 DEx4 work 10 status_reg 0 22 0FLg^W=cj`^ffS03alHO`3
+R1
+R2
+R3
+R50
+l31
+L24
+VKAIIZ=oIShJ1I=OPfTZa]0
+R7
+32
+R79
+R80
+R81
+R11
+R12
+!s100 74l0Q@mkDf[F[Y=RJoU]j0
+!i10b 1
+Eio_port
+Z83 w1397869717
+R1
+R2
+R3
+R4
+Z84 8E:/git/small8/IO_port.vhd
+Z85 FE:/git/small8/IO_port.vhd
+l0
+L5
+Ve??6CdRAR?l^>QUF?Y]Kd0
+R7
+32
+Z86 !s108 1398039884.900000
+Z87 !s90 -reportprogress|300|-work|work|-2002|-explicit|E:/git/small8/IO_port.vhd|
+Z88 !s107 E:/git/small8/IO_port.vhd|
+R11
+R12
+!s100 GjPM6ZjYo5h=6IY_M^zQL3
+!i10b 1
+Astr
+R49
+R1
+R2
+R3
+R74
+l25
+L24
+VT^^PA`A?MM^:RXXdXLQWS2
+R7
+32
+R86
+R87
+R88
+R11
+R12
+!s100 0zTIzMJ^1D9iKPgSdU=7E2
+!i10b 1
+Plib
+R2
+R3
+w1397877857
+R4
+8E:/git/small8/lib.vhd
+FE:/git/small8/lib.vhd
+l0
+L4
+VU1C04jzZ>O:0VD:?faClg0
+R7
+32
+R11
+R12
+!s100 7WfU70Wf[AXe?9P@biA2o0
+!i10b 1
+!s108 1398039885.058000
+!s90 -reportprogress|300|-work|work|-2002|-explicit|E:/git/small8/lib.vhd|
+!s107 E:/git/small8/lib.vhd|
+Eram
+Z89 w1397870765
+R2
+R3
+R4
+Z90 8E:/git/small8/RAM.vhd
+Z91 FE:/git/small8/RAM.vhd
+l0
+L42
+VSGfYMO5ABWgRW4SNN27LW0
+R7
+32
+Z92 !s108 1398039885.167000
+Z93 !s90 -reportprogress|300|-work|work|-2002|-explicit|E:/git/small8/RAM.vhd|
+Z94 !s107 E:/git/small8/RAM.vhd|
+R11
+R12
+!s100 6o?WfKD;AU`ceF>Ul[?[V2
+!i10b 1
+Asyn
+R2
+R3
+R73
+l87
+L54
+VRMECF:TQ@JXS?0coQg><@3
+R7
+32
+R92
+R93
+R94
+R11
+R12
+!s100 77TN9h<;m[4B;CUz3YVMA1
+!i10b 1
+Ereg
+Z95 w1396193385
+R1
+R2
+R3
+R4
+Z96 8E:/git/small8/reg.vhd
+Z97 FE:/git/small8/reg.vhd
+l0
+L5
+V5]>;V5lAK:2@c96mWHNQU1
+R7
+32
+Z98 !s108 1398039885.331000
+Z99 !s90 -reportprogress|300|-work|work|-2002|-explicit|E:/git/small8/reg.vhd|
+Z100 !s107 E:/git/small8/reg.vhd|
+R11
+R12
+!s100 c4d]1iY<bJ9lb]7^0M=973
+!i10b 1
+Abhv
+R1
+R2
+R3
+R49
+l20
+L19
+VWCQei6S@0PnGG0=JdNi?d2
+R7
+32
+R98
+R99
+R100
+R11
+R12
+!s100 PlmX05]=OimHhaXXSW3=c1
+!i10b 1
+Esmall
+Z101 w1397928932
+R1
+R2
+R3
+R4
+Z102 8E:/git/small8/small.vhd
+Z103 FE:/git/small8/small.vhd
+l0
+L5
+Vh_;i>KdnCljz5MZ70<M1X2
+R7
+32
+Z104 !s108 1398039885.506000
+Z105 !s90 -reportprogress|300|-work|work|-2002|-explicit|E:/git/small8/small.vhd|
+Z106 !s107 E:/git/small8/small.vhd|
+R11
+R12
+!s100 [gAX@B39>imPcbdR1V>4m1
+!i10b 1
+Astr
+R75
+R51
+R1
+R2
+R3
+DEx4 work 5 small 0 22 h_;i>KdnCljz5MZ70<M1X2
+l22
+L17
+VWA6[`jl0^_T4>7oZOP^Zm3
+R7
+32
+R104
+R105
+R106
+R11
+R12
+!s100 GkUZb6J8aMNI4flA;E;>73
+!i10b 1
+Astructure
+Z107 DPx10 cycloneiii 20 cycloneiii_atom_pack 0 22 ]RlG5R]Q[aFAe9T5<XI<o1
+Z108 DPx10 cycloneiii 21 cycloneiii_components 0 22 czVkNK5?8i<HPTLVSV_3a2
+Z109 DPx4 ieee 16 vital_primitives 0 22 9W@YP9_VCb?_GCJ8e:;YQ0
+Z110 DPx6 altera 11 dffeas_pack 0 22 oY7WPe2I:Taj0>HV`A`AH0
+Z111 DPx4 ieee 12 vital_timing 0 22 7h8zz2S4HVg:a;2TBMI[j1
+R2
+R3
+Z112 DPx6 altera 28 altera_primitives_components 0 22 H[E=U;zSVlD;ca@gnkzIO0
+DEx4 work 5 small 0 22 JBA>=In2dNS]z093iGm2U1
+l954
+L88
+Vii20Q2THICNXbIE]dc6@?1
+R7
+32
+R11
+R12
+Z113 FE:/git/small8/simulation/modelsim/small.vho
+w1398029044
+Z114 8E:/git/small8/simulation/modelsim/small.vho
+Z115 !s90 -reportprogress|300|-work|work|-2002|-explicit|E:/git/small8/simulation/modelsim/small.vho|
+Z116 !s107 E:/git/small8/simulation/modelsim/small.vho|
+!s108 1398029050.017000
+!s100 :_^WWm426BgK^H9ONzNDa1
+!i10b 1
+Estatus_decode
+Z117 w1397926913
+R1
+R2
+R3
+R4
+Z118 8E:/git/small8/status_decode.vhd
+Z119 FE:/git/small8/status_decode.vhd
+l0
+L5
+VZ0bKPC<LHj2_L;a5JS_G@0
+R7
+32
+Z120 !s108 1398039886.063000
+Z121 !s90 -reportprogress|300|-work|work|-2002|-explicit|E:/git/small8/status_decode.vhd|
+Z122 !s107 E:/git/small8/status_decode.vhd|
+R11
+R12
+!s100 QD[bl4Nln;X6>SbZo?^4n0
+!i10b 1
+Astr
+R1
+R2
+R3
+DEx4 work 13 status_decode 0 22 Z0bKPC<LHj2_L;a5JS_G@0
+l13
+L12
+VY6jTjCX_0PldDRan8Yd073
+!s100 iKQ?JXTLQ5LH;5zR1kI_?3
+R7
+32
+R120
+R121
+R122
+R11
+R12
+!i10b 1
+Estatus_reg
+Z123 w1397927883
+R1
+R2
+R3
+R4
+Z124 8E:/git/small8/status_reg.vhd
+Z125 FE:/git/small8/status_reg.vhd
+l0
+L5
+V0FLg^W=cj`^ffS03alHO`3
+R7
+32
+Z126 !s108 1398039885.663000
+Z127 !s90 -reportprogress|300|-work|work|-2002|-explicit|E:/git/small8/status_reg.vhd|
+Z128 !s107 E:/git/small8/status_reg.vhd|
+R11
+R12
+!s100 <_K<lVJ]4hCfKhj2<2EKf2
+!i10b 1
+Astr
+R1
+R2
+R3
+R82
+l26
+L15
+VFH;7Xm;HUh?KQhKzUjo`<0
+R7
+32
+R126
+R127
+R128
+R11
+R12
+!s100 3k;:CE7:RgAbbL1zI1l@H3
+!i10b 1
+Estatus_sel
+Z129 w1397927221
+R1
+R2
+R3
+R4
+Z130 8E:/git/small8/status_sel.vhd
+Z131 FE:/git/small8/status_sel.vhd
+l0
+L5
+Vn1zKc7d`;[2PkkaG;h9Mk0
+!s100 R_TO7@?mSUZ<gW0HbmaHG2
+R7
+32
+!i10b 1
+Z132 !s108 1398039886.316000
+Z133 !s90 -reportprogress|300|-work|work|-2002|-explicit|E:/git/small8/status_sel.vhd|
+Z134 !s107 E:/git/small8/status_sel.vhd|
+R11
+R12
+Abhv
+R1
+R2
+R3
+Z135 DEx4 work 10 status_sel 0 22 n1zKc7d`;[2PkkaG;h9Mk0
+l16
+L15
+Z136 VEVmWzhL]cP9ATd7]1K2jD3
+Z137 !s100 Ld@U5DC3Az9:6d[LWkYF31
+R7
+32
+!i10b 1
+R132
+R133
+R134
+R11
+R12
+Etop_level
+Z138 w1398039870
+R107
+R108
+R109
+R110
+R111
+R2
+R3
+R112
+R4
+R114
+R113
+l0
+L36
+VI5@L^hPe?NXGj630=OSQ20
+R7
+32
+Z139 !s108 1398039882.558000
+R115
+R116
+R11
+R12
+!s100 fA2B@:[n[G6Z`E6NXa6H;0
+!i10b 1
+Astructure
+R107
+R108
+R109
+R110
+R111
+R2
+R3
+R112
+DEx4 work 9 top_level 0 22 I5@L^hPe?NXGj630=OSQ20
+l1030
+L102
+VjfkO9fPbjRMjzUTKc0BfO3
+R7
+32
+R139
+R115
+R116
+R11
+R12
+!s100 ;]_2k=R6b5G[KU;500cZd0
+!i10b 1

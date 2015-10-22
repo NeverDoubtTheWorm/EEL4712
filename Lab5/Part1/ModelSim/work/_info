@@ -1,0 +1,343 @@
+m255
+K3
+13
+cModel Technology
+dC:\altera\13.1
+Ecomparator
+Z0 w1414402193
+Z1 DPx4 ieee 11 numeric_std 0 22 O3PF8EB`?j9=z7KT`fn941
+Z2 DPx4 ieee 15 std_logic_arith 0 22 4`Y?g_lkdn;7UL9IiJck01
+Z3 DPx4 ieee 18 std_logic_unsigned 0 22 RYmj;=TK`k=k>D@Cz`zoB3
+Z4 DPx3 std 6 textio 0 22 5>J:;AW>W0[[dW0I6EN1Q0
+Z5 DPx4 ieee 14 std_logic_1164 0 22 5=aWaoGZSMWIcH0i^f`XF1
+Z6 dC:\Users\Sean Thomas\Dropbox\EEL4712\Lab5\Part1\ModelSim
+Z7 8C:/Users/Sean Thomas/Dropbox/EEL4712/Lab5/Part1/Quartus/comparator.vhd
+Z8 FC:/Users/Sean Thomas/Dropbox/EEL4712/Lab5/Part1/Quartus/comparator.vhd
+l0
+L8
+Vm:BB@[B=^IFL4HIi=XPN=3
+Z9 OV;C;10.1d;51
+32
+Z10 !s108 1414410908.279000
+Z11 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/Sean Thomas/Dropbox/EEL4712/Lab5/Part1/Quartus/comparator.vhd|
+Z12 !s107 C:/Users/Sean Thomas/Dropbox/EEL4712/Lab5/Part1/Quartus/comparator.vhd|
+Z13 o-work work -2002 -explicit -O0
+Z14 tExplicit 1
+!s100 B8bIGP^b?^:5<;Yl:G@M83
+!i10b 1
+Abehavior
+R1
+R2
+R3
+R4
+R5
+DEx4 work 10 comparator 0 22 m:BB@[B=^IFL4HIi=XPN=3
+l16
+L15
+V<_:6YU`Pf0HN:gC3Gn:4K3
+R9
+32
+R10
+R11
+R12
+R13
+R14
+!s100 [m:YO3eeC06P263PEk3YY1
+!i10b 1
+Ectrl1
+Z15 w1414407061
+R1
+R2
+R3
+R4
+R5
+R6
+Z16 8C:/Users/Sean Thomas/Dropbox/EEL4712/Lab5/Part1/Quartus/ctrl1.vhd
+Z17 FC:/Users/Sean Thomas/Dropbox/EEL4712/Lab5/Part1/Quartus/ctrl1.vhd
+l0
+L8
+VcFR5`@HV:U912SN`mNJ883
+R9
+32
+Z18 !s108 1414410908.493000
+Z19 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/Sean Thomas/Dropbox/EEL4712/Lab5/Part1/Quartus/ctrl1.vhd|
+Z20 !s107 C:/Users/Sean Thomas/Dropbox/EEL4712/Lab5/Part1/Quartus/ctrl1.vhd|
+R13
+R14
+!s100 ]m?g40adEYAz0NP9ZB;S[2
+!i10b 1
+Abehavior
+R1
+R2
+R3
+R4
+R5
+DEx4 work 5 ctrl1 0 22 cFR5`@HV:U912SN`mNJ883
+l19
+L16
+VW@3TENUQ4oZggH7PZNIKf1
+R9
+32
+R18
+R19
+R20
+R13
+R14
+!s100 C`@AZ14kY`6NM`_e_T?0?2
+!i10b 1
+Edatapath1
+Z21 w1414410202
+R1
+R2
+R3
+R4
+R5
+R6
+Z22 8C:/Users/Sean Thomas/Dropbox/EEL4712/Lab5/Part1/Quartus/datapath1.vhd
+Z23 FC:/Users/Sean Thomas/Dropbox/EEL4712/Lab5/Part1/Quartus/datapath1.vhd
+l0
+L8
+VSVScAzdi=Z>O:_YXelZ@e1
+R9
+32
+Z24 !s108 1414410908.807000
+Z25 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/Sean Thomas/Dropbox/EEL4712/Lab5/Part1/Quartus/datapath1.vhd|
+Z26 !s107 C:/Users/Sean Thomas/Dropbox/EEL4712/Lab5/Part1/Quartus/datapath1.vhd|
+R13
+R14
+!s100 Dk7zEJi5<2iYkF9X2[^493
+!i10b 1
+Abehavior
+R1
+R2
+R3
+R4
+R5
+DEx4 work 9 datapath1 0 22 SVScAzdi=Z>O:_YXelZ@e1
+l48
+L22
+V<5<WCSc[WId=R4;M<So1f1
+R9
+32
+R24
+R25
+R26
+R13
+R14
+!s100 3]NFj[5m@Vzo5o1VO0j9M1
+!i10b 1
+Egcd
+Z27 w1414410803
+R1
+R4
+R5
+R6
+Z28 8C:/Users/Sean Thomas/Dropbox/EEL4712/Lab5/Part1/Quartus/gcd.vhd
+Z29 FC:/Users/Sean Thomas/Dropbox/EEL4712/Lab5/Part1/Quartus/gcd.vhd
+l0
+L5
+VKiPifS8XCT=F151zOLHle1
+R9
+32
+Z30 !s108 1414410909.071000
+Z31 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/Sean Thomas/Dropbox/EEL4712/Lab5/Part1/Quartus/gcd.vhd|
+Z32 !s107 C:/Users/Sean Thomas/Dropbox/EEL4712/Lab5/Part1/Quartus/gcd.vhd|
+R13
+R14
+!s100 NS1[mF8KLQgQ`Dg[RkPTQ3
+!i10b 1
+Afsm_d2
+R1
+R4
+R5
+Z33 DEx4 work 3 gcd 0 22 KiPifS8XCT=F151zOLHle1
+l52
+L50
+VLRS_fI??nglZ;5f8Dk^>Q2
+R9
+32
+R30
+R31
+R32
+R13
+R14
+!s100 mTe33XW3XkW_bbcQgJjNK0
+!i10b 1
+Afsm_d1
+R1
+R4
+R5
+R33
+l43
+L19
+VG9TTQd@g1;eKzON>0@ORz3
+R9
+32
+R30
+R31
+R32
+R13
+R14
+!s100 @7TK8z?b?BKPY:EF374nk2
+!i10b 1
+Egcd_tb
+Z34 w1414407291
+R1
+R4
+R5
+R6
+Z35 8C:/Users/Sean Thomas/Dropbox/EEL4712/Lab5/Part1/Quartus/gcd_tb.vhd
+Z36 FC:/Users/Sean Thomas/Dropbox/EEL4712/Lab5/Part1/Quartus/gcd_tb.vhd
+l0
+L5
+VWHNUS6HG12EiXT<R2abTd3
+R9
+32
+Z37 !s108 1414410909.627000
+Z38 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/Sean Thomas/Dropbox/EEL4712/Lab5/Part1/Quartus/gcd_tb.vhd|
+Z39 !s107 C:/Users/Sean Thomas/Dropbox/EEL4712/Lab5/Part1/Quartus/gcd_tb.vhd|
+R13
+R14
+!s100 7>>fD8ngA5J3b44S>BJ4c0
+!i10b 1
+Atb
+R33
+R1
+R4
+R5
+DEx4 work 6 gcd_tb 0 22 WHNUS6HG12EiXT<R2abTd3
+l22
+L8
+VKc5H;QzVG@fRjX@A:b[U52
+R9
+32
+R37
+R38
+R39
+R13
+R14
+!s100 ECBd@]jjfFVFC5Pl^Zb@70
+!i10b 1
+Emux
+Z40 w1414402162
+R1
+R2
+R3
+R4
+R5
+R6
+Z41 8C:/Users/Sean Thomas/Dropbox/EEL4712/Lab5/Part1/Quartus/mux.vhd
+Z42 FC:/Users/Sean Thomas/Dropbox/EEL4712/Lab5/Part1/Quartus/mux.vhd
+l0
+L8
+VI_oehZCDW2DVR`bBG1QTH0
+R9
+32
+Z43 !s108 1414410910.218000
+Z44 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/Sean Thomas/Dropbox/EEL4712/Lab5/Part1/Quartus/mux.vhd|
+Z45 !s107 C:/Users/Sean Thomas/Dropbox/EEL4712/Lab5/Part1/Quartus/mux.vhd|
+R13
+R14
+!s100 hU`^]FL0AzGg265HoAij@3
+!i10b 1
+Abehavior
+R1
+R2
+R3
+R4
+R5
+DEx4 work 3 mux 0 22 I_oehZCDW2DVR`bBG1QTH0
+l16
+L15
+Vi:F`@9^Q88lUO1I]3kH?>2
+R9
+32
+R43
+R44
+R45
+R13
+R14
+!s100 ?YoV]X0?oDb8Q?Z6Y[MeM2
+!i10b 1
+Ereg
+Z46 w1414402252
+R1
+R2
+R3
+R4
+R5
+R6
+Z47 8C:/Users/Sean Thomas/Dropbox/EEL4712/Lab5/Part1/Quartus/reg.vhd
+Z48 FC:/Users/Sean Thomas/Dropbox/EEL4712/Lab5/Part1/Quartus/reg.vhd
+l0
+L8
+VRnnYVWU=abmD7jHlWiHOn1
+R9
+32
+Z49 !s108 1414410910.634000
+Z50 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/Sean Thomas/Dropbox/EEL4712/Lab5/Part1/Quartus/reg.vhd|
+Z51 !s107 C:/Users/Sean Thomas/Dropbox/EEL4712/Lab5/Part1/Quartus/reg.vhd|
+R13
+R14
+!s100 fXRKT55^<K]ZcSSfccPJ[2
+!i10b 1
+Abehavior
+R1
+R2
+R3
+R4
+R5
+DEx4 work 3 reg 0 22 RnnYVWU=abmD7jHlWiHOn1
+l16
+L15
+VfQ22h4g]E>8T3:08<YSEX3
+!s100 5B]_A4T2F9UTGXWELFD=93
+R9
+32
+R49
+R50
+R51
+R13
+R14
+!i10b 1
+Esubtractor
+Z52 w1414402164
+R1
+R2
+R3
+R4
+R5
+R6
+Z53 8C:/Users/Sean Thomas/Dropbox/EEL4712/Lab5/Part1/Quartus/subtractor.vhd
+Z54 FC:/Users/Sean Thomas/Dropbox/EEL4712/Lab5/Part1/Quartus/subtractor.vhd
+l0
+L8
+VEGB9L4Fm@]nEA9[<7g0VB3
+!s100 96m3Li?Bo8_EO_^zkO3541
+R9
+32
+!i10b 1
+Z55 !s108 1414410910.952000
+Z56 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/Sean Thomas/Dropbox/EEL4712/Lab5/Part1/Quartus/subtractor.vhd|
+Z57 !s107 C:/Users/Sean Thomas/Dropbox/EEL4712/Lab5/Part1/Quartus/subtractor.vhd|
+R13
+R14
+Abehavior
+R1
+R2
+R3
+R4
+R5
+Z58 DEx4 work 10 subtractor 0 22 EGB9L4Fm@]nEA9[<7g0VB3
+l16
+L15
+Z59 VSn1EYUzW3d;C6<gCz^:kE1
+Z60 !s100 0Hee>@T?DIXl>I>V;d:U;1
+R9
+32
+!i10b 1
+R55
+R56
+R57
+R13
+R14
